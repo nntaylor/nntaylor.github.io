@@ -1,16 +1,16 @@
 {
- "at": "2026-10-17T17:49:11Z",
- "leagues_built": 105,
- "last_league_built": "2026-10-17T17:48:08Z",
+ "at": "2026-10-17T19:01:00Z",
+ "leagues_built": 1,
+ "last_league_built": "2026-10-17T19:00:52Z",
  "sources": [
   {
    "label": "Sleeper league: rosters, lineups, scores",
-   "at": "2026-10-17T17:47:59Z",
+   "at": "2026-10-17T19:00:37Z",
    "verb": "fetched"
   },
   {
    "label": "Sleeper projections (Rotowire)",
-   "at": "2026-10-17T17:30:49Z",
+   "at": "2026-10-17T18:50:49Z",
    "verb": "last changed"
   },
   {
@@ -20,12 +20,12 @@
   },
   {
    "label": "NFL game status (ESPN)",
-   "at": "2026-10-17T17:36:03Z",
+   "at": "2026-10-17T19:00:37Z",
    "verb": "fetched"
   },
   {
    "label": "Sleeper players file: names, NFL teams",
-   "at": "2026-10-17T17:06:31Z",
+   "at": "2026-10-17T00:31:08Z",
    "verb": "downloaded"
   },
   {

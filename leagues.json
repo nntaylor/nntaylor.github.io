@@ -953,5 +953,14 @@
   "added": "2026-10-17",
   "draft_order": "max_pf/finish/3p",
   "built": "2026-10-17T17:48:08Z"
+ },
+ {
+  "id": "1312120466156044288",
+  "name": "F.L.O.O.D.S.",
+  "season": "2026",
+  "type": 2,
+  "added": "2026-10-17",
+  "draft_order": "max_pf/finish_max_pf/3p",
+  "built": "2026-10-17T19:00:52Z"
  }
 ]
