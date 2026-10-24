@@ -3806,5 +3806,14 @@
   "added": "2026-10-24",
   "draft_order": "max_pf_all",
   "built": "2026-10-24T05:25:14Z"
+ },
+ {
+  "id": "1316982142294581248",
+  "name": "Los Angeles Plays Itself",
+  "season": "2026",
+  "type": 2,
+  "added": "2026-10-24",
+  "draft_order": "max_pf/finish_max_pf/3p",
+  "built": "2026-10-24T05:36:00Z"
  }
 ]
