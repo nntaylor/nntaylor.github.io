@@ -3860,5 +3860,14 @@
   "added": "2026-10-24",
   "draft_order": "none",
   "built": "2026-10-24T07:37:08Z"
+ },
+ {
+  "id": "1317960380995100672",
+  "name": "League of Dynasties",
+  "season": "2026",
+  "type": 2,
+  "added": "2026-10-24",
+  "draft_order": "max_pf/finish/3p",
+  "built": "2026-10-24T08:57:39Z"
  }
 ]
