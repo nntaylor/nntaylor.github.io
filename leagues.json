@@ -1,0 +1,3801 @@
+[
+ {
+  "id": "1312077550041710592",
+  "name": "The League of Record",
+  "season": "2026",
+  "type": 2,
+  "added": "2026-10-12",
+  "draft_order": "max_pf/finish_max_pf/3p",
+  "built": "2026-10-24T04:45:22Z"
+ },
+ {
+  "id": "1312541854163554304",
+  "name": "Happy Hate",
+  "season": "2026",
+  "type": 2,
+  "added": "2026-10-12",
+  "draft_order": "record/finish/3p",
+  "built": "2026-10-24T04:45:23Z"
+ },
+ {
+  "id": "1326429843172106240",
+  "name": "Cuck Dynasty",
+  "season": "2026",
+  "type": 2,
+  "added": "2026-10-14",
+  "draft_order": "record/finish_max_pf/3p",
+  "built": "2026-10-17T17:33:50Z"
+ },
+ {
+  "id": "1313636204129832960",
+  "name": "Bench Warmers",
+  "season": "2026",
+  "type": 2,
+  "added": "2026-10-14",
+  "draft_order": "max_pf/finish/3p",
+  "built": "2026-10-24T04:45:24Z"
+ },
+ {
+  "id": "1312941957839855616",
+  "name": "The Mighty Cucks",
+  "season": "2026",
+  "type": 2,
+  "added": "2026-10-14",
+  "draft_order": "max_pf/finish/3p",
+  "built": "2026-10-17T12:03:21Z"
+ },
+ {
+  "id": "1353161917014753280",
+  "name": "VFL League",
+  "season": "2026",
+  "type": 2,
+  "added": "2026-10-14",
+  "draft_order": "max_pf/finish/3p",
+  "built": "2026-10-17T12:03:33Z"
+ },
+ {
+  "id": "1313635210675372032",
+  "name": "Huddle Buddies",
+  "season": "2026",
+  "type": 2,
+  "added": "2026-10-14",
+  "draft_order": "max_pf/finish_max_pf/3p",
+  "built": "2026-10-17T12:03:37Z"
+ },
+ {
+  "id": "1312515084626440192",
+  "name": "taunton fire dept",
+  "season": "2026",
+  "type": 2,
+  "added": "2026-10-14",
+  "draft_order": "record/finish",
+  "built": "2026-10-17T12:03:45Z"
+ },
+ {
+  "id": "1313628080140460032",
+  "name": "LIV Football League",
+  "season": "2026",
+  "type": 2,
+  "added": "2026-10-14",
+  "draft_order": "record/finish_max_pf/3p",
+  "built": "2026-10-24T04:45:23Z"
+ },
+ {
+  "id": "1312497813719883776",
+  "name": "Wheaton Slime Time Live",
+  "season": "2026",
+  "type": 2,
+  "added": "2026-10-14",
+  "draft_order": "max_pf/finish_max_pf/3p",
+  "built": "2026-10-24T04:45:30Z"
+ },
+ {
+  "id": "1359718818015883264",
+  "name": "Chubb Hub Dynasty",
+  "season": "2026",
+  "type": 2,
+  "added": "2026-10-14",
+  "draft_order": "max_pf/finish_max_pf",
+  "built": "2026-10-17T17:34:29Z"
+ },
+ {
+  "id": "1321870984386473984",
+  "name": "Money Makers (Dynasty)",
+  "season": "2026",
+  "type": 2,
+  "added": "2026-10-14",
+  "draft_order": "max_pf/finish_max_pf",
+  "built": "2026-10-17T17:34:38Z"
+ },
+ {
+  "id": "1355204188392390656",
+  "name": "Bowling",
+  "season": "2026",
+  "type": 2,
+  "added": "2026-10-14",
+  "draft_order": "max_pf/finish_max_pf",
+  "built": "2026-10-23T12:02:22Z"
+ },
+ {
+  "id": "1389689964039524352",
+  "name": "Luka squad",
+  "season": "2026",
+  "type": 0,
+  "added": "2026-10-14",
+  "draft_order": "none",
+  "built": "2026-10-17T17:34:51Z"
+ },
+ {
+  "id": "1328050593461207040",
+  "name": "Ligma Lisfranc",
+  "season": "2026",
+  "type": 2,
+  "added": "2026-10-14",
+  "draft_order": "max_pf/finish_max_pf/3p",
+  "built": "2026-10-17T17:35:00Z"
+ },
+ {
+  "id": "1388927025959403520",
+  "name": "Hobbit Footballers",
+  "season": "2026",
+  "type": 0,
+  "added": "2026-10-14",
+  "draft_order": "none",
+  "built": "2026-10-19T12:01:47Z"
+ },
+ {
+  "id": "1320894200564170752",
+  "name": "sha dynasty",
+  "season": "2026",
+  "type": 2,
+  "added": "2026-10-14",
+  "draft_order": "max_pf/finish_max_pf/3p",
+  "built": "2026-10-17T17:35:15Z"
+ },
+ {
+  "id": "1303936850645241856",
+  "name": "Pigskins & Foreskins",
+  "season": "2026",
+  "type": 2,
+  "added": "2026-10-14",
+  "draft_order": "max_pf/finish_max_pf",
+  "built": "2026-10-17T17:35:25Z"
+ },
+ {
+  "id": "1312639072375676928",
+  "name": "DYNASTY JMU",
+  "season": "2026",
+  "type": 2,
+  "added": "2026-10-14",
+  "draft_order": "max_pf/finish",
+  "built": "2026-10-18T12:04:16Z"
+ },
+ {
+  "id": "1312110754551332864",
+  "name": "Bourbon Sluts",
+  "season": "2026",
+  "type": 2,
+  "added": "2026-10-14",
+  "draft_order": "pf/finish_max_pf/3p",
+  "built": "2026-10-17T17:35:44Z"
+ },
+ {
+  "id": "1312177992419512320",
+  "name": "COSC Dynasty",
+  "season": "2026",
+  "type": 2,
+  "added": "2026-10-15",
+  "draft_order": "max_pf/finish_max_pf/3p",
+  "built": "2026-10-23T16:48:00Z"
+ },
+ {
+  "id": "1340517083389132800",
+  "name": "Bitches and Snitches",
+  "season": "2026",
+  "type": 2,
+  "added": "2026-10-15",
+  "draft_order": "record/seed",
+  "built": "2026-10-18T00:02:59Z"
+ },
+ {
+  "id": "1314675654582636544",
+  "name": "Whale Wars",
+  "season": "2026",
+  "type": 2,
+  "added": "2026-10-15",
+  "draft_order": "max_pf/finish_max_pf/3p",
+  "built": "2026-10-18T00:03:02Z"
+ },
+ {
+  "id": "1399279754854596608",
+  "name": "The Fellas",
+  "season": "2026",
+  "type": 2,
+  "added": "2026-10-15",
+  "draft_order": "max_pf/finish_max_pf",
+  "built": "2026-10-18T04:19:42Z"
+ },
+ {
+  "id": "1327323348505481216",
+  "name": "The Fuck-Around Gang",
+  "season": "2026",
+  "type": 2,
+  "added": "2026-10-15",
+  "draft_order": "max_pf/finish_max_pf/3p",
+  "built": "2026-10-18T12:04:18Z"
+ },
+ {
+  "id": "1389739489655549953",
+  "name": "League Setup Version 16.0",
+  "season": "2026",
+  "type": 0,
+  "added": "2026-10-15",
+  "draft_order": "none",
+  "built": "2026-10-18T12:04:24Z"
+ },
+ {
+  "id": "1371156947260162048",
+  "name": "The League of Champions",
+  "season": "2026",
+  "type": 2,
+  "added": "2026-10-15",
+  "draft_order": "record/finish_max_pf/3p",
+  "built": "2026-10-18T12:04:34Z"
+ },
+ {
+  "id": "1312195284066910208",
+  "name": "The JJm Fanclub",
+  "season": "2026",
+  "type": 2,
+  "added": "2026-10-15",
+  "draft_order": "max_pf/finish_max_pf/3p",
+  "built": "2026-10-18T12:04:42Z"
+ },
+ {
+  "id": "1312205288987705344",
+  "name": "Dordt Dynasty League",
+  "season": "2026",
+  "type": 2,
+  "added": "2026-10-15",
+  "draft_order": "max_pf/finish_max_pf/3p",
+  "built": "2026-10-18T12:04:50Z"
+ },
+ {
+  "id": "1392700140220846080",
+  "name": "FP-Adjacent Keeper League",
+  "season": "2026",
+  "type": 1,
+  "added": "2026-10-15",
+  "draft_order": "record/finish_max_pf",
+  "built": "2026-10-18T12:04:53Z"
+ },
+ {
+  "id": "1337899416350097408",
+  "name": "Brandon's Wild Fantasy",
+  "season": "2026",
+  "type": 2,
+  "added": "2026-10-15",
+  "draft_order": "record/finish_max_pf/3p",
+  "built": "2026-10-18T12:05:07Z"
+ },
+ {
+  "id": "1312479200799645696",
+  "name": "Football Alcohol Gambling",
+  "season": "2026",
+  "type": 0,
+  "added": "2026-10-16",
+  "draft_order": "max_pf/finish_max_pf/3p",
+  "built": "2026-10-20T00:01:34Z"
+ },
+ {
+  "id": "1309593635116818432",
+  "name": "Garden City Dynasty",
+  "season": "2026",
+  "type": 2,
+  "added": "2026-10-16",
+  "draft_order": "none",
+  "built": "2026-10-19T00:01:43Z"
+ },
+ {
+  "id": "1314802257237127168",
+  "name": "dyNASTY",
+  "season": "2026",
+  "type": 2,
+  "added": "2026-10-16",
+  "draft_order": "max_pf/finish_max_pf/3p",
+  "built": "2026-10-19T00:01:53Z"
+ },
+ {
+  "id": "1312078039038840832",
+  "name": "We\u2019re Dynasty Guys!",
+  "season": "2026",
+  "type": 2,
+  "added": "2026-10-16",
+  "draft_order": "max_pf/finish_max_pf/3p",
+  "built": "2026-10-19T00:01:55Z"
+ },
+ {
+  "id": "1312155960508174336",
+  "name": "No Fun League",
+  "season": "2026",
+  "type": 2,
+  "added": "2026-10-16",
+  "draft_order": "max_pf/finish_max_pf/3p",
+  "built": "2026-10-19T00:02:06Z"
+ },
+ {
+  "id": "1312968314888138752",
+  "name": "Sickos Committee",
+  "season": "2026",
+  "type": 2,
+  "added": "2026-10-16",
+  "draft_order": "max_pf/finish_pf/3p",
+  "built": "2026-10-19T12:02:02Z"
+ },
+ {
+  "id": "1312164923106656256",
+  "name": "The Dynasty Gang",
+  "season": "2026",
+  "type": 2,
+  "added": "2026-10-16",
+  "draft_order": "record/finish_max_pf/3p",
+  "built": "2026-10-19T12:02:02Z"
+ },
+ {
+  "id": "1312883038895493120",
+  "name": "USF Dynasty",
+  "season": "2026",
+  "type": 2,
+  "added": "2026-10-16",
+  "draft_order": "max_pf/finish_max_pf/3p",
+  "built": "2026-10-19T00:02:24Z"
+ },
+ {
+  "id": "1314046150365425664",
+  "name": "PDX Dynasty",
+  "season": "2026",
+  "type": 2,
+  "added": "2026-10-16",
+  "draft_order": "max_pf/finish_max_pf/3p",
+  "built": "2026-10-19T00:02:28Z"
+ },
+ {
+  "id": "1389326483398332416",
+  "name": "USF Refraft",
+  "season": "2026",
+  "type": 0,
+  "added": "2026-10-16",
+  "draft_order": "none",
+  "built": "2026-10-19T00:02:30Z"
+ },
+ {
+  "id": "1374208802261323776",
+  "name": "The Unnamed Dynasty League",
+  "season": "2026",
+  "type": 2,
+  "added": "2026-10-16",
+  "draft_order": "max_pf/finish_max_pf",
+  "built": "2026-10-19T00:02:39Z"
+ },
+ {
+  "id": "1319439088545202176",
+  "name": "Game of Zones",
+  "season": "2026",
+  "type": 2,
+  "added": "2026-10-16",
+  "draft_order": "record/finish_max_pf/3p",
+  "built": "2026-10-19T00:02:39Z"
+ },
+ {
+  "id": "1337564176251392000",
+  "name": "Cal Fantasy",
+  "season": "2026",
+  "type": 1,
+  "added": "2026-10-16",
+  "draft_order": "record/finish_max_pf/3p",
+  "built": "2026-10-19T00:02:47Z"
+ },
+ {
+  "id": "1312102959185690624",
+  "name": "Oh No, Not Another Dynasty League",
+  "season": "2026",
+  "type": 2,
+  "added": "2026-10-16",
+  "draft_order": "none",
+  "built": "2026-10-23T16:48:11Z"
+ },
+ {
+  "id": "1389693020449808384",
+  "name": "Dynasty Dawgs \ud83d\udd25",
+  "season": "2026",
+  "type": 2,
+  "added": "2026-10-16",
+  "draft_order": "pf/seed",
+  "built": "2026-10-22T01:00:51Z"
+ },
+ {
+  "id": "1312085572830887936",
+  "name": "Little Dynasty",
+  "season": "2026",
+  "type": 2,
+  "added": "2026-10-16",
+  "draft_order": "max_pf/finish_max_pf/3p",
+  "built": "2026-10-19T00:03:02Z"
+ },
+ {
+  "id": "1396720431762817024",
+  "name": "Touchdowns and Triage",
+  "season": "2026",
+  "type": 0,
+  "added": "2026-10-16",
+  "draft_order": "none",
+  "built": "2026-10-19T00:03:01Z"
+ },
+ {
+  "id": "1314292352730267648",
+  "name": "Dirty Durham Dynasty League 2.0 (Season 3)",
+  "season": "2026",
+  "type": 2,
+  "added": "2026-10-16",
+  "draft_order": "max_pf/finish_max_pf/3p",
+  "built": "2026-10-21T12:02:13Z"
+ },
+ {
+  "id": "1382813501638049792",
+  "name": "Electrical substation league",
+  "season": "2026",
+  "type": 0,
+  "added": "2026-10-16",
+  "draft_order": "none",
+  "built": "2026-10-19T00:03:08Z"
+ },
+ {
+  "id": "1312044684712873984",
+  "name": "MM17 Throwback Party",
+  "season": "2026",
+  "type": 2,
+  "added": "2026-10-16",
+  "draft_order": "max_pf/finish_max_pf/3p",
+  "built": "2026-10-19T00:03:20Z"
+ },
+ {
+  "id": "1312131227267919872",
+  "name": "Dynasty Degens",
+  "season": "2026",
+  "type": 2,
+  "added": "2026-10-16",
+  "draft_order": "max_pf/finish_max_pf/3p",
+  "built": "2026-10-19T00:03:29Z"
+ },
+ {
+  "id": "1394097432672882688",
+  "name": "The Riverdeli Roundup",
+  "season": "2026",
+  "type": 0,
+  "added": "2026-10-16",
+  "draft_order": "none",
+  "built": "2026-10-19T00:03:26Z"
+ },
+ {
+  "id": "1363621751749083136",
+  "name": "Westchester Fantasy League",
+  "season": "2026",
+  "type": 0,
+  "added": "2026-10-16",
+  "draft_order": "none",
+  "built": "2026-10-19T12:02:17Z"
+ },
+ {
+  "id": "1312824783129296896",
+  "name": "The XII",
+  "season": "2026",
+  "type": 2,
+  "added": "2026-10-16",
+  "draft_order": "record/finish_max_pf/3p",
+  "built": "2026-10-19T00:03:41Z"
+ },
+ {
+  "id": "1312092780322893824",
+  "name": "Nearly Lombardi League",
+  "season": "2026",
+  "type": 2,
+  "added": "2026-10-16",
+  "draft_order": "record/finish_max_pf/3p",
+  "built": "2026-10-19T00:03:44Z"
+ },
+ {
+  "id": "1312135296048955392",
+  "name": "Fellas Dynasty",
+  "season": "2026",
+  "type": 2,
+  "added": "2026-10-16",
+  "draft_order": "max_pf/finish_max_pf/3p",
+  "built": "2026-10-19T00:03:55Z"
+ },
+ {
+  "id": "1324087968343814144",
+  "name": "Dynasty Of Champions v2",
+  "season": "2026",
+  "type": 2,
+  "added": "2026-10-16",
+  "draft_order": "record/finish_max_pf/3p",
+  "built": "2026-10-23T12:02:56Z"
+ },
+ {
+  "id": "1363547995869569024",
+  "name": "Saturday Beers & Sunday Tears",
+  "season": "2026",
+  "type": 2,
+  "added": "2026-10-16",
+  "draft_order": "max_pf/finish_max_pf",
+  "built": "2026-10-23T12:03:03Z"
+ },
+ {
+  "id": "1312005224197521408",
+  "name": "Monke Dynasty",
+  "season": "2026",
+  "type": 2,
+  "added": "2026-10-16",
+  "draft_order": "max_pf/finish_max_pf",
+  "built": "2026-10-24T04:45:32Z"
+ },
+ {
+  "id": "1347367223877988352",
+  "name": "Dirty 30 Empire SF",
+  "season": "2026",
+  "type": 2,
+  "added": "2026-10-16",
+  "draft_order": "max_pf/finish_max_pf",
+  "built": "2026-10-20T00:01:57Z"
+ },
+ {
+  "id": "1312983656377098240",
+  "name": "Brayden Dynasty",
+  "season": "2026",
+  "type": 2,
+  "added": "2026-10-16",
+  "draft_order": "record/seed",
+  "built": "2026-10-19T00:04:18Z"
+ },
+ {
+  "id": "1397368875116408832",
+  "name": "Brayden Football Year 5",
+  "season": "2026",
+  "type": 0,
+  "added": "2026-10-16",
+  "draft_order": "none",
+  "built": "2026-10-19T12:02:35Z"
+ },
+ {
+  "id": "1322351052070096896",
+  "name": "Dynasty Weekend Warriors",
+  "season": "2026",
+  "type": 2,
+  "added": "2026-10-16",
+  "draft_order": "max_pf/finish_max_pf",
+  "built": "2026-10-19T00:04:36Z"
+ },
+ {
+  "id": "1313958797168873472",
+  "name": "Let's Ride",
+  "season": "2026",
+  "type": 2,
+  "added": "2026-10-16",
+  "draft_order": "max_pf/finish_max_pf/3p",
+  "built": "2026-10-19T00:04:39Z"
+ },
+ {
+  "id": "1352694778801696768",
+  "name": "The United States Department of Football",
+  "season": "2026",
+  "type": 2,
+  "added": "2026-10-16",
+  "draft_order": "max_pf/finish_max_pf/3p",
+  "built": "2026-10-20T12:04:44Z"
+ },
+ {
+  "id": "1394473954793488384",
+  "name": "cbus",
+  "season": "2026",
+  "type": 2,
+  "added": "2026-10-16",
+  "draft_order": "max_pf/finish_max_pf",
+  "built": "2026-10-19T12:02:45Z"
+ },
+ {
+  "id": "1323771005432246272",
+  "name": "The Dynasty League",
+  "season": "2026",
+  "type": 2,
+  "added": "2026-10-16",
+  "draft_order": "max_pf/seed",
+  "built": "2026-10-19T12:02:57Z"
+ },
+ {
+  "id": "1309469724551172096",
+  "name": "Rajah UK Dynasty League",
+  "season": "2026",
+  "type": 2,
+  "added": "2026-10-16",
+  "draft_order": "max_pf/seed",
+  "built": "2026-10-19T12:02:57Z"
+ },
+ {
+  "id": "1314629670263623680",
+  "name": "Tunxis Fantasy",
+  "season": "2026",
+  "type": 2,
+  "added": "2026-10-16",
+  "draft_order": "record/finish",
+  "built": "2026-10-19T00:05:09Z"
+ },
+ {
+  "id": "1312077575903809536",
+  "name": "2k24 Dynasty",
+  "season": "2026",
+  "type": 2,
+  "added": "2026-10-16",
+  "draft_order": "max_pf/finish_max_pf/3p",
+  "built": "2026-10-19T12:03:11Z"
+ },
+ {
+  "id": "1315894212822061056",
+  "name": "Blank'sUltimateDynasaty",
+  "season": "2026",
+  "type": 2,
+  "added": "2026-10-16",
+  "draft_order": "pf/finish_max_pf/3p",
+  "built": "2026-10-20T12:04:57Z"
+ },
+ {
+  "id": "1312114940500262912",
+  "name": "Touchdowns All Day",
+  "season": "2026",
+  "type": 2,
+  "added": "2026-10-16",
+  "draft_order": "max_pf/finish/3p",
+  "built": "2026-10-19T00:05:33Z"
+ },
+ {
+  "id": "1314366377556971520",
+  "name": "The Longest Yard",
+  "season": "2026",
+  "type": 2,
+  "added": "2026-10-16",
+  "draft_order": "max_pf/finish_max_pf/3p",
+  "built": "2026-10-19T00:05:39Z"
+ },
+ {
+  "id": "1314782821990031360",
+  "name": "Empire '26",
+  "season": "2026",
+  "type": 2,
+  "added": "2026-10-16",
+  "draft_order": "record/finish",
+  "built": "2026-10-19T00:05:43Z"
+ },
+ {
+  "id": "1315402594427883520",
+  "name": "Shadynasty's",
+  "season": "2026",
+  "type": 2,
+  "added": "2026-10-16",
+  "draft_order": "record/finish_max_pf/3p",
+  "built": "2026-10-19T00:05:53Z"
+ },
+ {
+  "id": "1312183418401865728",
+  "name": "Fartball 420 Anthem Standers",
+  "season": "2026",
+  "type": 2,
+  "added": "2026-10-16",
+  "draft_order": "max_pf/finish_max_pf/3p",
+  "built": "2026-10-19T00:05:54Z"
+ },
+ {
+  "id": "1312093617996705792",
+  "name": "Dynasty Bros",
+  "season": "2026",
+  "type": 2,
+  "added": "2026-10-16",
+  "draft_order": "record/finish_max_pf/3p",
+  "built": "2026-10-19T00:06:08Z"
+ },
+ {
+  "id": "1312139337546108928",
+  "name": "Road to Glory",
+  "season": "2026",
+  "type": 2,
+  "added": "2026-10-16",
+  "draft_order": "record/finish/3p",
+  "built": "2026-10-19T00:06:04Z"
+ },
+ {
+  "id": "1347787127391285248",
+  "name": "The Dynasty of Offensive Gentlemen",
+  "season": "2026",
+  "type": 2,
+  "added": "2026-10-16",
+  "draft_order": "max_pf/finish_max_pf/3p",
+  "built": "2026-10-19T12:03:23Z"
+ },
+ {
+  "id": "1312594917331054592",
+  "name": "Dilly Dilly Dynasty \ud83c\udff0",
+  "season": "2026",
+  "type": 2,
+  "added": "2026-10-16",
+  "draft_order": "none",
+  "built": "2026-10-19T00:06:18Z"
+ },
+ {
+  "id": "1315007951861215232",
+  "name": "BDGE League 88",
+  "season": "2026",
+  "type": 2,
+  "added": "2026-10-16",
+  "draft_order": "pf/finish_max_pf/3p",
+  "built": "2026-10-19T00:06:34Z"
+ },
+ {
+  "id": "1389342442259501056",
+  "name": "The NFL\u2019s Next GM\u2019s",
+  "season": "2026",
+  "type": 1,
+  "added": "2026-10-16",
+  "draft_order": "record/finish_max_pf/3p",
+  "built": "2026-10-19T12:03:23Z"
+ },
+ {
+  "id": "1311998827330310144",
+  "name": "Four Thin Inches",
+  "season": "2026",
+  "type": 2,
+  "added": "2026-10-16",
+  "draft_order": "max_pf/finish_max_pf/3p",
+  "built": "2026-10-19T12:03:35Z"
+ },
+ {
+  "id": "1349795102540726272",
+  "name": "D Nasty League",
+  "season": "2026",
+  "type": 2,
+  "added": "2026-10-16",
+  "draft_order": "max_pf/finish_max_pf/3p",
+  "built": "2026-10-23T20:10:51Z"
+ },
+ {
+  "id": "1315038414495551488",
+  "name": "D.O.P.E",
+  "season": "2026",
+  "type": 2,
+  "added": "2026-10-16",
+  "draft_order": "max_pf/finish_max_pf/3p",
+  "built": "2026-10-19T12:03:48Z"
+ },
+ {
+  "id": "1333894355219419136",
+  "name": "NFL Europe Dynasty, 7th Season",
+  "season": "2026",
+  "type": 2,
+  "added": "2026-10-16",
+  "draft_order": "record/finish_max_pf/3p",
+  "built": "2026-10-21T00:03:02Z"
+ },
+ {
+  "id": "1313970374366482432",
+  "name": "Seek & Dynastroy",
+  "season": "2026",
+  "type": 2,
+  "added": "2026-10-16",
+  "draft_order": "max_pf/finish_max_pf/3p",
+  "built": "2026-10-23T00:03:44Z"
+ },
+ {
+  "id": "1312151494128058368",
+  "name": "Live Free or Dynasty",
+  "season": "2026",
+  "type": 2,
+  "added": "2026-10-16",
+  "draft_order": "max_pf/finish_max_pf/3p",
+  "built": "2026-10-22T01:02:16Z"
+ },
+ {
+  "id": "1337568735719882752",
+  "name": "The Cleveland massagers",
+  "season": "2026",
+  "type": 2,
+  "added": "2026-10-16",
+  "draft_order": "record/finish_max_pf",
+  "built": "2026-10-23T12:03:42Z"
+ },
+ {
+  "id": "1312984048158654465",
+  "name": "Clark dynasty league",
+  "season": "2026",
+  "type": 2,
+  "added": "2026-10-16",
+  "draft_order": "record/finish_max_pf/3p",
+  "built": "2026-10-19T12:04:17Z"
+ },
+ {
+  "id": "1316653861288562688",
+  "name": "12 Personnel Dynasty League (TE Premium)",
+  "season": "2026",
+  "type": 2,
+  "added": "2026-10-16",
+  "draft_order": "max_pf/finish_max_pf/3p",
+  "built": "2026-10-19T12:04:30Z"
+ },
+ {
+  "id": "1304695416519933952",
+  "name": "Dynasty Degenerates",
+  "season": "2026",
+  "type": 2,
+  "added": "2026-10-16",
+  "draft_order": "max_pf/finish_max_pf",
+  "built": "2026-10-19T12:04:31Z"
+ },
+ {
+  "id": "1324477275042758656",
+  "name": "Jax Beach Dynasty",
+  "season": "2026",
+  "type": 2,
+  "added": "2026-10-16",
+  "draft_order": "record/finish_max_pf/3p",
+  "built": "2026-10-19T12:04:40Z"
+ },
+ {
+  "id": "1312103676101267456",
+  "name": "The Not Alcoholics Fantasy Football Club",
+  "season": "2026",
+  "type": 2,
+  "added": "2026-10-16",
+  "draft_order": "max_pf/finish/3p",
+  "built": "2026-10-22T01:02:46Z"
+ },
+ {
+  "id": "1314680209533833216",
+  "name": "Duck Racers",
+  "season": "2026",
+  "type": 2,
+  "added": "2026-10-16",
+  "draft_order": "max_pf/finish/3p",
+  "built": "2026-10-19T12:04:51Z"
+ },
+ {
+  "id": "1312087320702226432",
+  "name": "Dynastyside",
+  "season": "2026",
+  "type": 2,
+  "added": "2026-10-16",
+  "draft_order": "pf/finish_max_pf/3p",
+  "built": "2026-10-19T12:05:01Z"
+ },
+ {
+  "id": "1312137746059390976",
+  "name": "Sigma Nu Alumni",
+  "season": "2026",
+  "type": 2,
+  "added": "2026-10-16",
+  "draft_order": "max_pf/finish/3p",
+  "built": "2026-10-19T12:05:06Z"
+ },
+ {
+  "id": "1312467628043825152",
+  "name": "Flip Right Double, X, Jet!",
+  "season": "2026",
+  "type": 2,
+  "added": "2026-10-17",
+  "draft_order": "max_pf/finish_max_pf/3p",
+  "built": "2026-10-20T00:02:43Z"
+ },
+ {
+  "id": "91312087320702226432",
+  "source": "1312087320702226432",
+  "test": true,
+  "name": "Dynastyside (Points For test)",
+  "season": "2026",
+  "type": 2,
+  "added": "2026-10-16",
+  "draft_order": "pf/finish_max_pf/3p",
+  "built": "2026-10-24T04:45:39Z"
+ },
+ {
+  "id": "91312541854163554304",
+  "source": "1312541854163554304",
+  "test": true,
+  "name": "Happy Hate (Record test)",
+  "season": "2026",
+  "type": 2,
+  "added": "2026-10-16",
+  "draft_order": "record/finish/3p",
+  "built": "2026-10-24T04:45:40Z"
+ },
+ {
+  "id": "91315520652853145600",
+  "source": "1315520652853145600",
+  "test": true,
+  "name": "Balls to the Wall (Toilet Bowl test)",
+  "season": "2026",
+  "type": 2,
+  "added": "2026-10-16",
+  "draft_order": "toilet_bowl/finish_max_pf/3p",
+  "built": "2026-10-22T16:56:08Z"
+ },
+ {
+  "id": "91337195226011283456",
+  "source": "1337195226011283456",
+  "test": true,
+  "name": "No Fun League (Consolation test)",
+  "season": "2026",
+  "type": 2,
+  "added": "2026-10-16",
+  "draft_order": "consolation/finish_max_pf/3p",
+  "built": "2026-10-24T04:45:39Z"
+ },
+ {
+  "id": "91312881126330605568",
+  "source": "1312881126330605568",
+  "test": true,
+  "name": "D5 (Finalists test)",
+  "season": "2026",
+  "type": 2,
+  "added": "2026-10-16",
+  "draft_order": "finalists",
+  "built": "2026-10-22T16:56:22Z"
+ },
+ {
+  "id": "1367450710253277184",
+  "name": "Trade The Peasants",
+  "season": "2026",
+  "type": 2,
+  "added": "2026-10-17",
+  "draft_order": "max_pf/finish/3p",
+  "built": "2026-10-23T20:11:42Z"
+ },
+ {
+  "id": "1312120466156044288",
+  "name": "F.L.O.O.D.S.",
+  "season": "2026",
+  "type": 2,
+  "added": "2026-10-17",
+  "draft_order": "max_pf/finish_max_pf/3p",
+  "built": "2026-10-20T18:35:48Z"
+ },
+ {
+  "id": "1328480630660411392",
+  "name": "Dynasty League for Orphaned Degenerates",
+  "season": "2026",
+  "type": 2,
+  "added": "2026-10-17",
+  "draft_order": "max_pf/finish_max_pf/3p",
+  "built": "2026-10-23T16:49:42Z"
+ },
+ {
+  "id": "1312102288294162432",
+  "name": "Super Beef 3-Way Dynasty League",
+  "season": "2026",
+  "type": 2,
+  "added": "2026-10-18",
+  "draft_order": "max_pf/finish_max_pf/3p",
+  "built": "2026-10-23T00:04:59Z"
+ },
+ {
+  "id": "1396218487860367360",
+  "name": "SD Chaps",
+  "season": "2026",
+  "type": 0,
+  "added": "2026-10-18",
+  "draft_order": "none",
+  "built": "2026-10-23T16:49:49Z"
+ },
+ {
+  "id": "1315737429688209408",
+  "name": "The Last Dance Invitational \ud83c\udfc8\ud83c\udfc6",
+  "season": "2026",
+  "type": 2,
+  "added": "2026-10-18",
+  "draft_order": "consolation/finish/3p",
+  "built": "2026-10-21T00:04:13Z"
+ },
+ {
+  "id": "1316993086735257600",
+  "name": "Phi Sig Pig Skin",
+  "season": "2026",
+  "type": 2,
+  "added": "2026-10-18",
+  "draft_order": "max_pf/finish_max_pf/3p",
+  "built": "2026-10-21T00:04:15Z"
+ },
+ {
+  "id": "1313412386832539648",
+  "name": "\ud83d\udcb0Bo Knows Bo!! $100",
+  "season": "2026",
+  "type": 2,
+  "added": "2026-10-18",
+  "draft_order": "max_pf/finish_max_pf",
+  "built": "2026-10-21T00:04:32Z"
+ },
+ {
+  "id": "1312083003857465344",
+  "name": "Dynasty",
+  "season": "2026",
+  "type": 2,
+  "added": "2026-10-18",
+  "draft_order": "max_pf/finish/3p",
+  "built": "2026-10-21T00:04:32Z"
+ },
+ {
+  "id": "1312125470459850752",
+  "name": "The Champions League",
+  "season": "2026",
+  "type": 2,
+  "added": "2026-10-18",
+  "draft_order": "max_pf/finish_max_pf/3p",
+  "built": "2026-10-21T00:04:49Z"
+ },
+ {
+  "id": "1313336004236541952",
+  "name": "R/DFF Mod League - Dynasty",
+  "season": "2026",
+  "type": 2,
+  "added": "2026-10-18",
+  "draft_order": "max_pf/finish_max_pf",
+  "built": "2026-10-21T21:29:14Z"
+ },
+ {
+  "id": "1312106724076843008",
+  "name": "Hardest Crew in the League",
+  "season": "2026",
+  "type": 2,
+  "added": "2026-10-18",
+  "draft_order": "max_pf/finish_pf/3p",
+  "built": "2026-10-23T16:50:00Z"
+ },
+ {
+  "id": "1400973532887810048",
+  "name": "Here for a good time",
+  "season": "2026",
+  "type": 0,
+  "added": "2026-10-19",
+  "draft_order": "none",
+  "built": "2026-10-24T04:45:33Z"
+ },
+ {
+  "id": "1312133501943840768",
+  "name": "BDGE Dynasty League 31",
+  "season": "2026",
+  "type": 2,
+  "added": "2026-10-20",
+  "draft_order": "max_pf/finish_max_pf/3p",
+  "built": "2026-10-23T00:05:22Z"
+ },
+ {
+  "id": "1387454558111801344",
+  "name": "OG\u2019s Only",
+  "season": "2026",
+  "type": 0,
+  "added": "2026-10-20",
+  "draft_order": "none",
+  "built": "2026-10-23T16:50:07Z"
+ },
+ {
+  "id": "1359032911793233920",
+  "name": "Keenan Dynasty",
+  "season": "2026",
+  "type": 2,
+  "added": "2026-10-22",
+  "draft_order": "max_pf/finish_max_pf",
+  "built": "2026-10-24T04:45:38Z"
+ },
+ {
+  "id": "1390069938005213184",
+  "name": "McKenna/Hurth Fam League",
+  "season": "2026",
+  "type": 0,
+  "added": "2026-10-22",
+  "draft_order": "none",
+  "built": "2026-10-24T00:58:18Z"
+ },
+ {
+  "id": "1388982407067078656",
+  "name": "WaterCo Fantasy Football",
+  "season": "2026",
+  "type": 0,
+  "added": "2026-10-22",
+  "draft_order": "none",
+  "built": "2026-10-24T00:58:26Z"
+ },
+ {
+  "id": "1312039320500064256",
+  "name": "Nilav II",
+  "season": "2026",
+  "type": 2,
+  "added": "2026-10-23",
+  "draft_order": "max_pf/finish_max_pf/3p",
+  "built": "2026-10-24T04:45:45Z"
+ },
+ {
+  "id": "1393979330278719488",
+  "name": "Daniel Dimes Fan Club",
+  "season": "2026",
+  "type": 0,
+  "added": "2026-10-23",
+  "draft_order": "none",
+  "built": "2026-10-24T04:45:38Z"
+ },
+ {
+  "id": "1337799821003620352",
+  "name": "Anime Social Nexus",
+  "season": "2026",
+  "type": 0,
+  "added": "2026-10-23",
+  "draft_order": "none",
+  "built": "2026-10-24T04:45:41Z"
+ },
+ {
+  "id": "1387455801622286336",
+  "name": "D1 Fantasy League on Sleeper.App",
+  "season": "2026",
+  "type": 1,
+  "added": "2026-10-23",
+  "draft_order": "none",
+  "built": "2026-10-24T04:45:43Z"
+ },
+ {
+  "id": "1387491235727441920",
+  "name": "Baltimore Bros",
+  "season": "2026",
+  "type": 1,
+  "added": "2026-10-23",
+  "draft_order": "none",
+  "built": "2026-10-24T04:45:47Z"
+ },
+ {
+  "id": "1389332972468965376",
+  "name": "Gio\u2019s vs Louie",
+  "season": "2026",
+  "type": 0,
+  "added": "2026-10-23",
+  "draft_order": "none",
+  "built": "2026-10-24T04:45:48Z"
+ },
+ {
+  "id": "1389749058238709760",
+  "name": "Aint first youre last",
+  "season": "2026",
+  "type": 0,
+  "added": "2026-10-23",
+  "draft_order": "none",
+  "built": "2026-10-24T04:45:49Z"
+ },
+ {
+  "id": "1401385130890702848",
+  "name": "$100 degens",
+  "season": "2026",
+  "type": 0,
+  "added": "2026-10-23",
+  "draft_order": "none",
+  "built": "2026-10-24T04:45:49Z"
+ },
+ {
+  "id": "1313033674312155136",
+  "name": "BRDFFL",
+  "season": "2026",
+  "type": 2,
+  "added": "2026-10-23",
+  "draft_order": "max_pf/finish/3p",
+  "built": "2026-10-24T04:45:57Z"
+ },
+ {
+  "id": "1319370331533606912",
+  "name": "jsg",
+  "season": "2026",
+  "type": 0,
+  "added": "2026-10-23",
+  "draft_order": "none",
+  "built": "2026-10-24T04:45:49Z"
+ },
+ {
+  "id": "1327368206070849536",
+  "name": "Super Awesome Amazingly Fantastic Fun Time League",
+  "season": "2026",
+  "type": 0,
+  "added": "2026-10-23",
+  "draft_order": "none",
+  "built": "2026-10-24T04:45:51Z"
+ },
+ {
+  "id": "1335311244839645184",
+  "name": "Mrs. Peed's Class",
+  "season": "2026",
+  "type": 2,
+  "added": "2026-10-23",
+  "draft_order": "record/finish_max_pf/3p",
+  "built": "2026-10-24T04:46:00Z"
+ },
+ {
+  "id": "1347069771551604736",
+  "name": "League of Chauds",
+  "season": "2026",
+  "type": 2,
+  "added": "2026-10-23",
+  "draft_order": "record/finish_max_pf",
+  "built": "2026-10-24T04:46:02Z"
+ },
+ {
+  "id": "1385317299929501696",
+  "name": "Chest Hair FFL",
+  "season": "2026",
+  "type": 0,
+  "added": "2026-10-23",
+  "draft_order": "none",
+  "built": "2026-10-24T04:45:58Z"
+ },
+ {
+  "id": "1389327871419383808",
+  "name": "Hot Boyz 2026",
+  "season": "2026",
+  "type": 0,
+  "added": "2026-10-23",
+  "draft_order": "none",
+  "built": "2026-10-24T04:45:59Z"
+ },
+ {
+  "id": "1389374469969047552",
+  "name": "Battlehawks belly cam Enthusiasts",
+  "season": "2026",
+  "type": 0,
+  "added": "2026-10-23",
+  "draft_order": "none",
+  "built": "2026-10-24T04:45:59Z"
+ },
+ {
+  "id": "1316537398187786240",
+  "name": "Old Washed Up Bulldogs",
+  "season": "2026",
+  "type": 2,
+  "added": "2026-10-23",
+  "draft_order": "max_pf/finish/3p",
+  "built": "2026-10-24T04:46:05Z"
+ },
+ {
+  "id": "1374732041165209600",
+  "name": "Nooners",
+  "season": "2026",
+  "type": 0,
+  "added": "2026-10-23",
+  "draft_order": "none",
+  "built": "2026-10-24T04:45:59Z"
+ },
+ {
+  "id": "1382192726111449088",
+  "name": "There Can Be Only One!",
+  "season": "2026",
+  "type": 2,
+  "added": "2026-10-23",
+  "draft_order": "consolation/finish",
+  "built": "2026-10-24T04:46:10Z"
+ },
+ {
+  "id": "1383998791929065472",
+  "name": "College Degenerates",
+  "season": "2026",
+  "type": 2,
+  "added": "2026-10-23",
+  "draft_order": "max_pf/finish_max_pf",
+  "built": "2026-10-24T04:46:13Z"
+ },
+ {
+  "id": "1388712741379796992",
+  "name": "CBC FF League",
+  "season": "2026",
+  "type": 0,
+  "added": "2026-10-23",
+  "draft_order": "none",
+  "built": "2026-10-24T04:46:09Z"
+ },
+ {
+  "id": "1389358181053927424",
+  "name": "Double Dragon",
+  "season": "2026",
+  "type": 1,
+  "added": "2026-10-23",
+  "draft_order": "toilet_bowl/finish_max_pf/3p",
+  "built": "2026-10-24T04:46:10Z"
+ },
+ {
+  "id": "1389736037319708672",
+  "name": "Dynasty League",
+  "season": "2026",
+  "type": 2,
+  "added": "2026-10-23",
+  "draft_order": "record/finish_pf/3p",
+  "built": "2026-10-24T04:46:11Z"
+ },
+ {
+  "id": "1400336021916295168",
+  "name": "actives",
+  "season": "2026",
+  "type": 0,
+  "added": "2026-10-23",
+  "draft_order": "none",
+  "built": "2026-10-24T04:46:09Z"
+ },
+ {
+  "id": "1311996946088472576",
+  "name": "DiddyTucker",
+  "season": "2026",
+  "type": 0,
+  "added": "2026-10-23",
+  "draft_order": "none",
+  "built": "2026-10-24T04:46:11Z"
+ },
+ {
+  "id": "1312154083695542272",
+  "name": "House Browns",
+  "season": "2026",
+  "type": 1,
+  "added": "2026-10-23",
+  "draft_order": "consolation/finish_max_pf/3p",
+  "built": "2026-10-24T04:46:17Z"
+ },
+ {
+  "id": "1313665603902390272",
+  "name": "Bragging Rights",
+  "season": "2026",
+  "type": 2,
+  "added": "2026-10-23",
+  "draft_order": "max_pf/finish/3p",
+  "built": "2026-10-24T04:46:30Z"
+ },
+ {
+  "id": "1382535711407742976",
+  "name": "League of Extraordinary Punishments",
+  "season": "2026",
+  "type": 1,
+  "added": "2026-10-23",
+  "draft_order": "toilet_bowl/finish/3p",
+  "built": "2026-10-24T04:46:20Z"
+ },
+ {
+  "id": "1385835947693711360",
+  "name": "Indians and friends",
+  "season": "2026",
+  "type": 0,
+  "added": "2026-10-23",
+  "draft_order": "none",
+  "built": "2026-10-24T04:46:20Z"
+ },
+ {
+  "id": "1388344382654001152",
+  "name": "Brick Squad",
+  "season": "2026",
+  "type": 0,
+  "added": "2026-10-23",
+  "draft_order": "none",
+  "built": "2026-10-24T04:46:20Z"
+ },
+ {
+  "id": "1389330194631757824",
+  "name": "Animals 2026",
+  "season": "2026",
+  "type": 0,
+  "added": "2026-10-23",
+  "draft_order": "none",
+  "built": "2026-10-24T04:46:20Z"
+ },
+ {
+  "id": "1389372752158285824",
+  "name": "Book Club Bowl",
+  "season": "2026",
+  "type": 0,
+  "added": "2026-10-23",
+  "draft_order": "none",
+  "built": "2026-10-24T04:46:20Z"
+ },
+ {
+  "id": "1390926624790183937",
+  "name": "League Against Medical Advice",
+  "season": "2026",
+  "type": 0,
+  "added": "2026-10-23",
+  "draft_order": "none",
+  "built": "2026-10-24T04:46:21Z"
+ },
+ {
+  "id": "1397596827213164544",
+  "name": "LVPE Fantasy Football 2026",
+  "season": "2026",
+  "type": 0,
+  "added": "2026-10-23",
+  "draft_order": "none",
+  "built": "2026-10-24T04:46:26Z"
+ },
+ {
+  "id": "1312093523410968576",
+  "name": "UCONN-SECURE DYNASTY",
+  "season": "2026",
+  "type": 2,
+  "added": "2026-10-23",
+  "draft_order": "max_pf/finish_max_pf/3p",
+  "built": "2026-10-24T04:46:37Z"
+ },
+ {
+  "id": "1312215005088739328",
+  "name": "SDIFFL",
+  "season": "2026",
+  "type": 0,
+  "added": "2026-10-23",
+  "draft_order": "none",
+  "built": "2026-10-24T04:46:31Z"
+ },
+ {
+  "id": "1313993447073394688",
+  "name": "The Bourbon Leagues",
+  "season": "2026",
+  "type": 2,
+  "added": "2026-10-23",
+  "draft_order": "max_pf/finish_max_pf/3p",
+  "built": "2026-10-24T04:46:39Z"
+ },
+ {
+  "id": "1337831616516464640",
+  "name": "Addition by Division",
+  "season": "2026",
+  "type": 2,
+  "added": "2026-10-23",
+  "draft_order": "record/finish_max_pf/3p",
+  "built": "2026-10-24T04:46:37Z"
+ },
+ {
+  "id": "1377500702510686208",
+  "name": "Jaime is the Bye Week",
+  "season": "2026",
+  "type": 0,
+  "added": "2026-10-23",
+  "draft_order": "none",
+  "built": "2026-10-24T04:46:29Z"
+ },
+ {
+  "id": "1388005007130914816",
+  "name": "The Swamp fball",
+  "season": "2026",
+  "type": 0,
+  "added": "2026-10-23",
+  "draft_order": "none",
+  "built": "2026-10-24T04:46:31Z"
+ },
+ {
+  "id": "1388237620768673792",
+  "name": "SeibertBowl",
+  "season": "2026",
+  "type": 0,
+  "added": "2026-10-23",
+  "draft_order": "none",
+  "built": "2026-10-24T04:46:35Z"
+ },
+ {
+  "id": "1389374271196774400",
+  "name": "Game of Delinquent Thrones",
+  "season": "2026",
+  "type": 0,
+  "added": "2026-10-23",
+  "draft_order": "none",
+  "built": "2026-10-24T04:46:37Z"
+ },
+ {
+  "id": "1389695054494326784",
+  "name": "Tech League",
+  "season": "2026",
+  "type": 0,
+  "added": "2026-10-23",
+  "draft_order": "none",
+  "built": "2026-10-24T04:46:40Z"
+ },
+ {
+  "id": "1389722746069479424",
+  "name": "League of Pubes",
+  "season": "2026",
+  "type": 0,
+  "added": "2026-10-23",
+  "draft_order": "none",
+  "built": "2026-10-24T04:46:41Z"
+ },
+ {
+  "id": "1389755623918288896",
+  "name": "Punt You Fools",
+  "season": "2026",
+  "type": 0,
+  "added": "2026-10-23",
+  "draft_order": "none",
+  "built": "2026-10-24T04:46:40Z"
+ },
+ {
+  "id": "1391579546922254336",
+  "name": "Hall of fame game, hall of fame players",
+  "season": "2026",
+  "type": 2,
+  "added": "2026-10-23",
+  "draft_order": "max_pf/finish_max_pf",
+  "built": "2026-10-24T04:46:52Z"
+ },
+ {
+  "id": "1397325880216334336",
+  "name": "The Substation",
+  "season": "2026",
+  "type": 2,
+  "added": "2026-10-23",
+  "draft_order": "max_pf/finish_max_pf/3p",
+  "built": "2026-10-24T04:46:57Z"
+ },
+ {
+  "id": "1312125651590856704",
+  "name": "No Sleep Till Football",
+  "season": "2026",
+  "type": 1,
+  "added": "2026-10-23",
+  "draft_order": "consolation/finish_max_pf/3p",
+  "built": "2026-10-24T04:46:53Z"
+ },
+ {
+  "id": "1351995310922027008",
+  "name": "Super cool and fun dynasty league",
+  "season": "2026",
+  "type": 2,
+  "added": "2026-10-23",
+  "draft_order": "max_pf/finish_max_pf/3p",
+  "built": "2026-10-24T04:46:55Z"
+ },
+ {
+  "id": "1356740341176225792",
+  "name": "Braelon Allen's Children",
+  "season": "2026",
+  "type": 0,
+  "added": "2026-10-23",
+  "draft_order": "none",
+  "built": "2026-10-24T04:46:48Z"
+ },
+ {
+  "id": "1365296088696774656",
+  "name": "Fantasy Bois",
+  "season": "2026",
+  "type": 0,
+  "added": "2026-10-23",
+  "draft_order": "none",
+  "built": "2026-10-24T04:46:50Z"
+ },
+ {
+  "id": "1381498311982219264",
+  "name": "The One League",
+  "season": "2026",
+  "type": 0,
+  "added": "2026-10-23",
+  "draft_order": "none",
+  "built": "2026-10-24T04:46:50Z"
+ },
+ {
+  "id": "1385732601083334656",
+  "name": "613 BOWL",
+  "season": "2026",
+  "type": 1,
+  "added": "2026-10-23",
+  "draft_order": "record/finish",
+  "built": "2026-10-24T04:46:52Z"
+ },
+ {
+  "id": "1389690656821084160",
+  "name": "TexasBoys",
+  "season": "2026",
+  "type": 0,
+  "added": "2026-10-23",
+  "draft_order": "none",
+  "built": "2026-10-24T04:46:58Z"
+ },
+ {
+  "id": "1397308837135962112",
+  "name": "Ethan\u2019s Chill Redraft League",
+  "season": "2026",
+  "type": 0,
+  "added": "2026-10-23",
+  "draft_order": "none",
+  "built": "2026-10-24T04:47:03Z"
+ },
+ {
+  "id": "1397655333672878080",
+  "name": "Blue FF26 League 2",
+  "season": "2026",
+  "type": 0,
+  "added": "2026-10-23",
+  "draft_order": "none",
+  "built": "2026-10-24T04:47:00Z"
+ },
+ {
+  "id": "1312195291000102912",
+  "name": "The Boys Dynasty",
+  "season": "2026",
+  "type": 2,
+  "added": "2026-10-23",
+  "draft_order": "record/finish",
+  "built": "2026-10-24T04:47:02Z"
+ },
+ {
+  "id": "1312545000587812864",
+  "name": "Dynasty Degenerates",
+  "season": "2026",
+  "type": 2,
+  "added": "2026-10-23",
+  "draft_order": "max_pf/finish_max_pf",
+  "built": "2026-10-24T04:47:08Z"
+ },
+ {
+  "id": "1317958786354274304",
+  "name": "Hogwarts Legacy",
+  "season": "2026",
+  "type": 2,
+  "added": "2026-10-23",
+  "draft_order": "max_pf/finish_max_pf",
+  "built": "2026-10-24T04:47:11Z"
+ },
+ {
+  "id": "1337988975037550593",
+  "name": "dinusty leeg",
+  "season": "2026",
+  "type": 2,
+  "added": "2026-10-23",
+  "draft_order": "max_pf/finish_max_pf",
+  "built": "2026-10-24T04:47:11Z"
+ },
+ {
+  "id": "1355770510624960512",
+  "name": "Sunday Funday",
+  "season": "2026",
+  "type": 1,
+  "added": "2026-10-23",
+  "draft_order": "max_pf/finish_max_pf/3p",
+  "built": "2026-10-24T04:47:10Z"
+ },
+ {
+  "id": "1377258683058114560",
+  "name": "Reed is Weed",
+  "season": "2026",
+  "type": 0,
+  "added": "2026-10-23",
+  "draft_order": "none",
+  "built": "2026-10-24T04:47:07Z"
+ },
+ {
+  "id": "1379632567396876288",
+  "name": "BHK",
+  "season": "2026",
+  "type": 0,
+  "added": "2026-10-23",
+  "draft_order": "none",
+  "built": "2026-10-24T04:47:08Z"
+ },
+ {
+  "id": "1381461119884890112",
+  "name": "OJs Friends Fantasy League",
+  "season": "2026",
+  "type": 0,
+  "added": "2026-10-23",
+  "draft_order": "none",
+  "built": "2026-10-24T04:47:12Z"
+ },
+ {
+  "id": "1387573231161970688",
+  "name": "DDegenerates",
+  "season": "2026",
+  "type": 0,
+  "added": "2026-10-23",
+  "draft_order": "none",
+  "built": "2026-10-24T04:47:13Z"
+ },
+ {
+  "id": "1388399307228459008",
+  "name": "FATT MAFLEUR\u2019S SLEEPERZ",
+  "season": "2026",
+  "type": 0,
+  "added": "2026-10-23",
+  "draft_order": "none",
+  "built": "2026-10-24T04:47:15Z"
+ },
+ {
+  "id": "1389328945391865856",
+  "name": "A Fridge Too Far",
+  "season": "2026",
+  "type": 2,
+  "added": "2026-10-23",
+  "draft_order": "max_pf/finish_max_pf",
+  "built": "2026-10-24T04:47:27Z"
+ },
+ {
+  "id": "1389371676982001664",
+  "name": "Dynasty League",
+  "season": "2026",
+  "type": 2,
+  "added": "2026-10-23",
+  "draft_order": "max_pf/finish_max_pf/3p",
+  "built": "2026-10-24T04:47:25Z"
+ },
+ {
+  "id": "1389390116274843648",
+  "name": "Remnants of Pritzker 2026-27",
+  "season": "2026",
+  "type": 0,
+  "added": "2026-10-23",
+  "draft_order": "none",
+  "built": "2026-10-24T04:47:18Z"
+ },
+ {
+  "id": "1393712948223950848",
+  "name": "BTWF FFB League",
+  "season": "2026",
+  "type": 0,
+  "added": "2026-10-23",
+  "draft_order": "none",
+  "built": "2026-10-24T04:47:20Z"
+ },
+ {
+  "id": "1312132712106065920",
+  "name": "The Stella League",
+  "season": "2026",
+  "type": 1,
+  "added": "2026-10-23",
+  "draft_order": "max_pf/finish_max_pf/3p",
+  "built": "2026-10-24T04:47:27Z"
+ },
+ {
+  "id": "1314377695445934080",
+  "name": "Ventura FFB",
+  "season": "2026",
+  "type": 0,
+  "added": "2026-10-23",
+  "draft_order": "none",
+  "built": "2026-10-24T04:47:21Z"
+ },
+ {
+  "id": "1352029926055768064",
+  "name": "Cheeseburger Dynasty",
+  "season": "2026",
+  "type": 2,
+  "added": "2026-10-23",
+  "draft_order": "finalists",
+  "built": "2026-10-24T04:47:30Z"
+ },
+ {
+  "id": "1354842289553297408",
+  "name": "Assland FFL",
+  "season": "2026",
+  "type": 1,
+  "added": "2026-10-23",
+  "draft_order": "toilet_bowl/finish/3p",
+  "built": "2026-10-24T04:47:24Z"
+ },
+ {
+  "id": "1363715389770436608",
+  "name": "GRIDIRON LEAGUE 3.0",
+  "season": "2026",
+  "type": 0,
+  "added": "2026-10-23",
+  "draft_order": "none",
+  "built": "2026-10-24T04:47:27Z"
+ },
+ {
+  "id": "1372628466905669632",
+  "name": "DyNasty Degenerates",
+  "season": "2026",
+  "type": 1,
+  "added": "2026-10-23",
+  "draft_order": "record/finish/3p",
+  "built": "2026-10-24T04:47:30Z"
+ },
+ {
+  "id": "1382405554621657088",
+  "name": "MembersOnly",
+  "season": "2026",
+  "type": 0,
+  "added": "2026-10-23",
+  "draft_order": "none",
+  "built": "2026-10-24T04:47:30Z"
+ },
+ {
+  "id": "1385361714282770432",
+  "name": "The Junction Dyansty",
+  "season": "2026",
+  "type": 2,
+  "added": "2026-10-23",
+  "draft_order": "record/finish/3p",
+  "built": "2026-10-24T04:47:36Z"
+ },
+ {
+  "id": "1387545940851716096",
+  "name": "Donuts",
+  "season": "2026",
+  "type": 1,
+  "added": "2026-10-23",
+  "draft_order": "none",
+  "built": "2026-10-24T04:47:34Z"
+ },
+ {
+  "id": "1389389153954729984",
+  "name": "Light It Up",
+  "season": "2026",
+  "type": 0,
+  "added": "2026-10-23",
+  "draft_order": "none",
+  "built": "2026-10-24T04:47:37Z"
+ },
+ {
+  "id": "1389738234375852032",
+  "name": "Toasty Marshmallows",
+  "season": "2026",
+  "type": 0,
+  "added": "2026-10-23",
+  "draft_order": "none",
+  "built": "2026-10-24T04:47:37Z"
+ },
+ {
+  "id": "1389739744878948353",
+  "name": "River Appreciation League",
+  "season": "2026",
+  "type": 0,
+  "added": "2026-10-23",
+  "draft_order": "none",
+  "built": "2026-10-24T04:47:36Z"
+ },
+ {
+  "id": "1312047723549048832",
+  "name": "[Insert Clever Dynasty League Name]",
+  "season": "2026",
+  "type": 2,
+  "added": "2026-10-23",
+  "draft_order": "finalists",
+  "built": "2026-10-24T04:47:44Z"
+ },
+ {
+  "id": "1365097869991759872",
+  "name": "The Jabba Bowl",
+  "season": "2026",
+  "type": 0,
+  "added": "2026-10-23",
+  "draft_order": "none",
+  "built": "2026-10-24T04:47:40Z"
+ },
+ {
+  "id": "1382057272384970752",
+  "name": "Ultimate Team",
+  "season": "2026",
+  "type": 0,
+  "added": "2026-10-23",
+  "draft_order": "none",
+  "built": "2026-10-24T04:47:39Z"
+ },
+ {
+  "id": "1388758062948454400",
+  "name": "Jerry World",
+  "season": "2026",
+  "type": 0,
+  "added": "2026-10-23",
+  "draft_order": "none",
+  "built": "2026-10-24T04:47:43Z"
+ },
+ {
+  "id": "1389737921182969856",
+  "name": "Boys round 3",
+  "season": "2026",
+  "type": 0,
+  "added": "2026-10-23",
+  "draft_order": "none",
+  "built": "2026-10-24T04:47:45Z"
+ },
+ {
+  "id": "1390105757269110784",
+  "name": "Cammunity Fantasy Football League #2",
+  "season": "2026",
+  "type": 0,
+  "added": "2026-10-23",
+  "draft_order": "none",
+  "built": "2026-10-24T04:47:46Z"
+ },
+ {
+  "id": "1391485509099868160",
+  "name": "Cuckhold County v2",
+  "season": "2026",
+  "type": 0,
+  "added": "2026-10-23",
+  "draft_order": "none",
+  "built": "2026-10-24T04:47:47Z"
+ },
+ {
+  "id": "1398116943302545408",
+  "name": "HighPoint Dynasties League",
+  "season": "2026",
+  "type": 2,
+  "added": "2026-10-23",
+  "draft_order": "record/finish_max_pf",
+  "built": "2026-10-24T04:47:48Z"
+ },
+ {
+  "id": "1353071137067642880",
+  "name": "Smith Family League",
+  "season": "2026",
+  "type": 0,
+  "added": "2026-10-23",
+  "draft_order": "none",
+  "built": "2026-10-24T04:47:46Z"
+ },
+ {
+  "id": "1361058986937323520",
+  "name": "Captain Andrew Luck Memorial League",
+  "season": "2026",
+  "type": 2,
+  "added": "2026-10-23",
+  "draft_order": "finalists",
+  "built": "2026-10-24T04:47:56Z"
+ },
+ {
+  "id": "1364400077774295040",
+  "name": "The League",
+  "season": "2026",
+  "type": 2,
+  "added": "2026-10-23",
+  "draft_order": "none",
+  "built": "2026-10-24T04:47:56Z"
+ },
+ {
+  "id": "1389343519755206656",
+  "name": "Heathens",
+  "season": "2026",
+  "type": 0,
+  "added": "2026-10-23",
+  "draft_order": "none",
+  "built": "2026-10-24T04:47:52Z"
+ },
+ {
+  "id": "1389386900871069696",
+  "name": "Freddie\u2019s Hooligans",
+  "season": "2026",
+  "type": 0,
+  "added": "2026-10-23",
+  "draft_order": "none",
+  "built": "2026-10-24T04:47:54Z"
+ },
+ {
+  "id": "1391659874806411264",
+  "name": "\ud83c\uddec\ud83c\udde7 NFL Redraft League \ud83c\udfc8",
+  "season": "2026",
+  "type": 0,
+  "added": "2026-10-23",
+  "draft_order": "none",
+  "built": "2026-10-24T04:47:56Z"
+ },
+ {
+  "id": "1312884005581918208",
+  "name": "Dan and Aaron's totally not rigged Dynasty",
+  "season": "2026",
+  "type": 2,
+  "added": "2026-10-23",
+  "draft_order": "max_pf/finish_max_pf",
+  "built": "2026-10-24T04:48:04Z"
+ },
+ {
+  "id": "1316241916144160768",
+  "name": "SF Dynasty",
+  "season": "2026",
+  "type": 2,
+  "added": "2026-10-23",
+  "draft_order": "record/finish/3p",
+  "built": "2026-10-24T04:48:00Z"
+ },
+ {
+  "id": "1382482336163045376",
+  "name": "Era - Bench Warmers League",
+  "season": "2026",
+  "type": 0,
+  "added": "2026-10-23",
+  "draft_order": "none",
+  "built": "2026-10-24T04:47:58Z"
+ },
+ {
+  "id": "1384029138276343808",
+  "name": "The Dy-Nasty League",
+  "season": "2026",
+  "type": 2,
+  "added": "2026-10-23",
+  "draft_order": "record/finish_max_pf/3p",
+  "built": "2026-10-24T04:48:10Z"
+ },
+ {
+  "id": "1388944350720847872",
+  "name": "rookie league",
+  "season": "2026",
+  "type": 0,
+  "added": "2026-10-23",
+  "draft_order": "none",
+  "built": "2026-10-24T04:48:03Z"
+ },
+ {
+  "id": "1389343192343678976",
+  "name": "Battle Buddies XIII",
+  "season": "2026",
+  "type": 0,
+  "added": "2026-10-23",
+  "draft_order": "none",
+  "built": "2026-10-24T04:48:04Z"
+ },
+ {
+  "id": "1312033797717393408",
+  "name": "Family Dynasty",
+  "season": "2026",
+  "type": 1,
+  "added": "2026-10-23",
+  "draft_order": "max_pf/finish_max_pf/3p",
+  "built": "2026-10-24T04:48:08Z"
+ },
+ {
+  "id": "1388599814886821888",
+  "name": "GM Gauntlet",
+  "season": "2026",
+  "type": 0,
+  "added": "2026-10-23",
+  "draft_order": "none",
+  "built": "2026-10-24T04:48:06Z"
+ },
+ {
+  "id": "1389752792020717568",
+  "name": "No Punt Intended",
+  "season": "2026",
+  "type": 0,
+  "added": "2026-10-23",
+  "draft_order": "none",
+  "built": "2026-10-24T04:48:05Z"
+ },
+ {
+  "id": "1390334116536274944",
+  "name": "Jook Fantasy League",
+  "season": "2026",
+  "type": 0,
+  "added": "2026-10-23",
+  "draft_order": "none",
+  "built": "2026-10-24T04:48:10Z"
+ },
+ {
+  "id": "1389737857362440192",
+  "name": "Soccer",
+  "season": "2026",
+  "type": 0,
+  "added": "2026-10-23",
+  "draft_order": "none",
+  "built": "2026-10-24T04:48:13Z"
+ },
+ {
+  "id": "1397307817131585536",
+  "name": "T&C Fantasy",
+  "season": "2026",
+  "type": 0,
+  "added": "2026-10-23",
+  "draft_order": "none",
+  "built": "2026-10-24T04:48:16Z"
+ },
+ {
+  "id": "1388606067797151745",
+  "name": "BigTDz",
+  "season": "2026",
+  "type": 0,
+  "added": "2026-10-23",
+  "draft_order": "none",
+  "built": "2026-10-24T04:48:15Z"
+ },
+ {
+  "id": "1312581546544238592",
+  "name": "Pizza Hut Dynasty 5.0",
+  "season": "2026",
+  "type": 2,
+  "added": "2026-10-23",
+  "draft_order": "toilet_bowl/finish_max_pf/3p",
+  "built": "2026-10-24T04:48:21Z"
+ },
+ {
+  "id": "1316843438959792128",
+  "name": "League of Unextraordinary Gentlemen + Alica",
+  "season": "2026",
+  "type": 2,
+  "added": "2026-10-23",
+  "draft_order": "pf/finish_max_pf/3p",
+  "built": "2026-10-24T04:48:27Z"
+ },
+ {
+  "id": "1379194969822076928",
+  "name": "Variants",
+  "season": "2026",
+  "type": 1,
+  "added": "2026-10-23",
+  "draft_order": "max_pf/finish_max_pf/3p",
+  "built": "2026-10-24T04:48:22Z"
+ },
+ {
+  "id": "1383882136532029440",
+  "name": "Football CS",
+  "season": "2026",
+  "type": 0,
+  "added": "2026-10-23",
+  "draft_order": "none",
+  "built": "2026-10-24T04:48:19Z"
+ },
+ {
+  "id": "1389343627880185856",
+  "name": "Punt Reducing Agents",
+  "season": "2026",
+  "type": 0,
+  "added": "2026-10-23",
+  "draft_order": "none",
+  "built": "2026-10-24T04:48:20Z"
+ },
+ {
+  "id": "1389358737247969280",
+  "name": "GatorNation",
+  "season": "2026",
+  "type": 0,
+  "added": "2026-10-23",
+  "draft_order": "none",
+  "built": "2026-10-24T04:48:45Z"
+ },
+ {
+  "id": "1391671739322216448",
+  "name": "WSE Adjacent Fantasy 2026",
+  "season": "2026",
+  "type": 0,
+  "added": "2026-10-23",
+  "draft_order": "none",
+  "built": "2026-10-24T04:48:24Z"
+ },
+ {
+  "id": "1334048737168748544",
+  "name": "Stucco Dynasty League",
+  "season": "2026",
+  "type": 2,
+  "added": "2026-10-23",
+  "draft_order": "max_pf/finish/3p",
+  "built": "2026-10-24T04:48:34Z"
+ },
+ {
+  "id": "1398896620866707456",
+  "name": "2026 Fantasy Football",
+  "season": "2026",
+  "type": 0,
+  "added": "2026-10-23",
+  "draft_order": "none",
+  "built": "2026-10-24T04:48:28Z"
+ },
+ {
+  "id": "1402324339105271808",
+  "name": "Everyone Has Kids Except Stu",
+  "season": "2026",
+  "type": 0,
+  "added": "2026-10-23",
+  "draft_order": "none",
+  "built": "2026-10-24T04:48:30Z"
+ },
+ {
+  "id": "1371939236785168384",
+  "name": "The Longest Yard",
+  "season": "2026",
+  "type": 2,
+  "added": "2026-10-23",
+  "draft_order": "max_pf/finish_max_pf",
+  "built": "2026-10-24T04:48:39Z"
+ },
+ {
+  "id": "1399268086032416768",
+  "name": "Red [Dead] Zone Redemption",
+  "season": "2026",
+  "type": 1,
+  "added": "2026-10-23",
+  "draft_order": "record/finish_max_pf",
+  "built": "2026-10-24T04:48:35Z"
+ },
+ {
+  "id": "1312219635755520000",
+  "name": "CPS",
+  "season": "2026",
+  "type": 2,
+  "added": "2026-10-23",
+  "draft_order": "record/finish/3p",
+  "built": "2026-10-24T04:48:39Z"
+ },
+ {
+  "id": "1387114907840815104",
+  "name": "Fantasy Football for DUMMIES",
+  "season": "2026",
+  "type": 0,
+  "added": "2026-10-23",
+  "draft_order": "none",
+  "built": "2026-10-24T04:48:37Z"
+ },
+ {
+  "id": "1312110770565165056",
+  "name": "TCYC Dynasty Football League",
+  "season": "2026",
+  "type": 2,
+  "added": "2026-10-23",
+  "draft_order": "max_pf/finish_max_pf/3p",
+  "built": "2026-10-24T04:48:45Z"
+ },
+ {
+  "id": "1357093797481172992",
+  "name": "Deep in the Heart of Flexas",
+  "season": "2026",
+  "type": 2,
+  "added": "2026-10-23",
+  "draft_order": "max_pf/finish_max_pf",
+  "built": "2026-10-24T04:48:46Z"
+ },
+ {
+  "id": "1382741260921507840",
+  "name": "The Football Fraternity",
+  "season": "2026",
+  "type": 0,
+  "added": "2026-10-23",
+  "draft_order": "none",
+  "built": "2026-10-24T04:48:44Z"
+ },
+ {
+  "id": "1389331483713351680",
+  "name": "Eighteen!",
+  "season": "2026",
+  "type": 0,
+  "added": "2026-10-23",
+  "draft_order": "none",
+  "built": "2026-10-24T04:48:44Z"
+ },
+ {
+  "id": "1379463500274864128",
+  "name": "ResetERA Dynasty Free League",
+  "season": "2026",
+  "type": 2,
+  "added": "2026-10-23",
+  "draft_order": "max_pf/finish_max_pf",
+  "built": "2026-10-24T04:48:52Z"
+ },
+ {
+  "id": "1394772060223336448",
+  "name": "The Mytek Orolbai Fan club",
+  "season": "2026",
+  "type": 0,
+  "added": "2026-10-23",
+  "draft_order": "none",
+  "built": "2026-10-24T04:48:49Z"
+ },
+ {
+  "id": "1312031102507966464",
+  "name": "Degenerate Social Club",
+  "season": "2026",
+  "type": 2,
+  "added": "2026-10-23",
+  "draft_order": "max_pf/finish_max_pf/3p",
+  "built": "2026-10-24T04:48:57Z"
+ },
+ {
+  "id": "1368984856914034688",
+  "name": "Electrical Substation League",
+  "season": "2026",
+  "type": 0,
+  "added": "2026-10-23",
+  "draft_order": "none",
+  "built": "2026-10-24T04:48:53Z"
+ },
+ {
+  "id": "1389329137075748864",
+  "name": "Rosemount Fantasy 2.0",
+  "season": "2026",
+  "type": 0,
+  "added": "2026-10-23",
+  "draft_order": "none",
+  "built": "2026-10-24T04:48:53Z"
+ },
+ {
+  "id": "1333864309914095616",
+  "name": "Dynasty Fantasy Football",
+  "season": "2026",
+  "type": 2,
+  "added": "2026-10-23",
+  "draft_order": "max_pf/finish_max_pf/3p",
+  "built": "2026-10-24T04:49:04Z"
+ },
+ {
+  "id": "1334697115196071936",
+  "name": "International Sicko League (ISL)",
+  "season": "2026",
+  "type": 2,
+  "added": "2026-10-23",
+  "draft_order": "max_pf/finish_max_pf",
+  "built": "2026-10-24T04:49:01Z"
+ },
+ {
+  "id": "1353156162626793472",
+  "name": "American Football League of America",
+  "season": "2026",
+  "type": 2,
+  "added": "2026-10-23",
+  "draft_order": "record/finish_max_pf",
+  "built": "2026-10-24T04:49:00Z"
+ },
+ {
+  "id": "1399643603055206400",
+  "name": "john ma RA St. Brown",
+  "season": "2026",
+  "type": 0,
+  "added": "2026-10-23",
+  "draft_order": "none",
+  "built": "2026-10-24T04:48:57Z"
+ },
+ {
+  "id": "1312167437944258560",
+  "name": "2026 - 2027 Redraft",
+  "season": "2026",
+  "type": 0,
+  "added": "2026-10-23",
+  "draft_order": "none",
+  "built": "2026-10-24T04:49:01Z"
+ },
+ {
+  "id": "1402768444792823808",
+  "name": "Bay League 26",
+  "season": "2026",
+  "type": 0,
+  "added": "2026-10-23",
+  "draft_order": "none",
+  "built": "2026-10-24T04:49:01Z"
+ },
+ {
+  "id": "1389363025122705408",
+  "name": "South Bay 2026",
+  "season": "2026",
+  "type": 0,
+  "added": "2026-10-23",
+  "draft_order": "none",
+  "built": "2026-10-24T04:49:02Z"
+ },
+ {
+  "id": "1311999570225401856",
+  "name": "TommyAlGaiib",
+  "season": "2026",
+  "type": 0,
+  "added": "2026-10-23",
+  "draft_order": "none",
+  "built": "2026-10-24T04:49:06Z"
+ },
+ {
+  "id": "1389359576591122432",
+  "name": "158 and Friends",
+  "season": "2026",
+  "type": 0,
+  "added": "2026-10-23",
+  "draft_order": "none",
+  "built": "2026-10-24T04:49:06Z"
+ },
+ {
+  "id": "1391556228219437056",
+  "name": "Fantasy Footballers",
+  "season": "2026",
+  "type": 0,
+  "added": "2026-10-23",
+  "draft_order": "none",
+  "built": "2026-10-24T04:49:10Z"
+ },
+ {
+  "id": "1314154098148253696",
+  "name": "Real Pigskin Heads",
+  "season": "2026",
+  "type": 2,
+  "added": "2026-10-23",
+  "draft_order": "max_pf/finish_max_pf/3p",
+  "built": "2026-10-24T04:49:19Z"
+ },
+ {
+  "id": "1389722069859594240",
+  "name": "It\u2019s Brandon\u2019s league and we\u2019re just living in it",
+  "season": "2026",
+  "type": 0,
+  "added": "2026-10-23",
+  "draft_order": "none",
+  "built": "2026-10-24T04:49:11Z"
+ },
+ {
+  "id": "1372040260501921792",
+  "name": "Fasak Fantasy League",
+  "season": "2026",
+  "type": 1,
+  "added": "2026-10-23",
+  "draft_order": "none",
+  "built": "2026-10-24T04:49:12Z"
+ },
+ {
+  "id": "1389329316042522624",
+  "name": "UNC MED 2026",
+  "season": "2026",
+  "type": 0,
+  "added": "2026-10-23",
+  "draft_order": "none",
+  "built": "2026-10-24T04:49:11Z"
+ },
+ {
+  "id": "1387490409126576128",
+  "name": "Drews League",
+  "season": "2026",
+  "type": 0,
+  "added": "2026-10-23",
+  "draft_order": "none",
+  "built": "2026-10-24T04:49:13Z"
+ },
+ {
+  "id": "1312895659837251584",
+  "name": "Fairly Flexible Fantasy (SuperFlex Dynasty)",
+  "season": "2026",
+  "type": 2,
+  "added": "2026-10-23",
+  "draft_order": "finalists",
+  "built": "2026-10-24T04:49:25Z"
+ },
+ {
+  "id": "1380693943989063680",
+  "name": "National Fars League",
+  "season": "2026",
+  "type": 1,
+  "added": "2026-10-23",
+  "draft_order": "max_pf/finish_max_pf/3p",
+  "built": "2026-10-24T04:49:19Z"
+ },
+ {
+  "id": "1312007701080850432",
+  "name": "Tournament of Power",
+  "season": "2026",
+  "type": 0,
+  "added": "2026-10-23",
+  "draft_order": "none",
+  "built": "2026-10-24T04:49:18Z"
+ },
+ {
+  "id": "1391472056276639744",
+  "name": "Kyle Pitts Supremacy",
+  "season": "2026",
+  "type": 0,
+  "added": "2026-10-23",
+  "draft_order": "none",
+  "built": "2026-10-24T04:49:19Z"
+ },
+ {
+  "id": "1392768814323605504",
+  "name": "Coast to Coast Fantasy \ud83d\ude0e\ud83c\udf7a\u26bd\ufe0f",
+  "season": "2026",
+  "type": 0,
+  "added": "2026-10-23",
+  "draft_order": "none",
+  "built": "2026-10-24T04:49:20Z"
+ },
+ {
+  "id": "1311999767915540480",
+  "name": "Live Free or Dynasty",
+  "season": "2026",
+  "type": 2,
+  "added": "2026-10-23",
+  "draft_order": "max_pf/finish_max_pf/3p",
+  "built": "2026-10-24T04:49:29Z"
+ },
+ {
+  "id": "1387868079039467520",
+  "name": "Prestige Worldwide",
+  "season": "2026",
+  "type": 0,
+  "added": "2026-10-23",
+  "draft_order": "none",
+  "built": "2026-10-24T04:49:23Z"
+ },
+ {
+  "id": "1389343469121605632",
+  "name": "Phoenix Dynasty",
+  "season": "2026",
+  "type": 2,
+  "added": "2026-10-23",
+  "draft_order": "max_pf/finish_max_pf/3p",
+  "built": "2026-10-24T04:49:32Z"
+ },
+ {
+  "id": "1388568640915279872",
+  "name": "Utopia IV: Revelations",
+  "season": "2026",
+  "type": 0,
+  "added": "2026-10-23",
+  "draft_order": "none",
+  "built": "2026-10-24T04:49:29Z"
+ },
+ {
+  "id": "1394116207354867712",
+  "name": "Pearly 2026",
+  "season": "2026",
+  "type": 0,
+  "added": "2026-10-23",
+  "draft_order": "none",
+  "built": "2026-10-24T04:49:28Z"
+ },
+ {
+  "id": "1386419176624644096",
+  "name": "Splenius Penimus",
+  "season": "2026",
+  "type": 0,
+  "added": "2026-10-23",
+  "draft_order": "none",
+  "built": "2026-10-24T04:49:30Z"
+ },
+ {
+  "id": "1312233564095397888",
+  "name": "Gurnee Boys",
+  "season": "2026",
+  "type": 1,
+  "added": "2026-10-23",
+  "draft_order": "record/finish_max_pf/3p",
+  "built": "2026-10-24T04:49:34Z"
+ },
+ {
+  "id": "1381748896765607936",
+  "name": "Ruggs & Rice Driving Academy",
+  "season": "2026",
+  "type": 1,
+  "added": "2026-10-23",
+  "draft_order": "consolation/seed",
+  "built": "2026-10-24T04:49:33Z"
+ },
+ {
+  "id": "1385465125242150912",
+  "name": "Real Deal 2026",
+  "season": "2026",
+  "type": 0,
+  "added": "2026-10-23",
+  "draft_order": "none",
+  "built": "2026-10-24T04:49:34Z"
+ },
+ {
+  "id": "1390384498574635008",
+  "name": "17 Weeks of Uninterrupted Football.",
+  "season": "2026",
+  "type": 1,
+  "added": "2026-10-23",
+  "draft_order": "none",
+  "built": "2026-10-24T04:49:38Z"
+ },
+ {
+  "id": "1384002978863661056",
+  "name": "CVL Leage PT 2",
+  "season": "2026",
+  "type": 0,
+  "added": "2026-10-23",
+  "draft_order": "none",
+  "built": "2026-10-24T04:49:37Z"
+ },
+ {
+  "id": "1400616803083784192",
+  "name": "Warrenton Premier League",
+  "season": "2026",
+  "type": 0,
+  "added": "2026-10-23",
+  "draft_order": "none",
+  "built": "2026-10-24T04:49:37Z"
+ },
+ {
+  "id": "1389723393548365825",
+  "name": "The League Year 5",
+  "season": "2026",
+  "type": 2,
+  "added": "2026-10-23",
+  "draft_order": "max_pf/finish_max_pf/3p",
+  "built": "2026-10-24T04:49:48Z"
+ },
+ {
+  "id": "1354515627464732672",
+  "name": "The Dress League",
+  "season": "2026",
+  "type": 0,
+  "added": "2026-10-23",
+  "draft_order": "none",
+  "built": "2026-10-24T04:49:41Z"
+ },
+ {
+  "id": "1386780700241305600",
+  "name": "Maurer family FFL",
+  "season": "2026",
+  "type": 0,
+  "added": "2026-10-23",
+  "draft_order": "none",
+  "built": "2026-10-24T04:49:42Z"
+ },
+ {
+  "id": "1310820790211457024",
+  "name": "Live free or dynasty",
+  "season": "2026",
+  "type": 1,
+  "added": "2026-10-23",
+  "draft_order": "record/finish_max_pf/3p",
+  "built": "2026-10-24T04:49:45Z"
+ },
+ {
+  "id": "1315231889933492224",
+  "name": "Daddies and Baddies",
+  "season": "2026",
+  "type": 2,
+  "added": "2026-10-23",
+  "draft_order": "max_pf/finish/3p",
+  "built": "2026-10-24T04:49:52Z"
+ },
+ {
+  "id": "1382939422391017472",
+  "name": "Just For Fun 2026",
+  "season": "2026",
+  "type": 0,
+  "added": "2026-10-23",
+  "draft_order": "none",
+  "built": "2026-10-24T04:49:47Z"
+ },
+ {
+  "id": "1312087050953949184",
+  "name": "Good Ole Dynasty",
+  "season": "2026",
+  "type": 2,
+  "added": "2026-10-23",
+  "draft_order": "toilet_bowl/finish_max_pf/3p",
+  "built": "2026-10-24T04:49:57Z"
+ },
+ {
+  "id": "1313740100084977664",
+  "name": "The Money League",
+  "season": "2026",
+  "type": 0,
+  "added": "2026-10-23",
+  "draft_order": "none",
+  "built": "2026-10-24T04:49:47Z"
+ },
+ {
+  "id": "1354886994647347200",
+  "name": "Oh God Yes Dynasty",
+  "season": "2026",
+  "type": 2,
+  "added": "2026-10-23",
+  "draft_order": "max_pf/finish_max_pf/3p",
+  "built": "2026-10-24T04:49:57Z"
+ },
+ {
+  "id": "1389459737036210176",
+  "name": "Koh Dynasty",
+  "season": "2026",
+  "type": 2,
+  "added": "2026-10-23",
+  "draft_order": "max_pf/finish_max_pf",
+  "built": "2026-10-24T04:49:55Z"
+ },
+ {
+  "id": "1384784099738157056",
+  "name": "Bidwell Type Rebuild",
+  "season": "2026",
+  "type": 2,
+  "added": "2026-10-23",
+  "draft_order": "record/finish/3p",
+  "built": "2026-10-24T04:49:56Z"
+ },
+ {
+  "id": "1389725178954551296",
+  "name": "D.O.P.E. Y3",
+  "season": "2026",
+  "type": 2,
+  "added": "2026-10-23",
+  "draft_order": "max_pf/finish_max_pf/3p",
+  "built": "2026-10-24T04:50:05Z"
+ },
+ {
+  "id": "1348125685033476096",
+  "name": "Real Deal Dynasty 2.0",
+  "season": "2026",
+  "type": 2,
+  "added": "2026-10-23",
+  "draft_order": "max_pf/finish_max_pf/3p",
+  "built": "2026-10-24T04:50:03Z"
+ },
+ {
+  "id": "1355043173663014912",
+  "name": "DyNastyNasty",
+  "season": "2026",
+  "type": 2,
+  "added": "2026-10-23",
+  "draft_order": "max_pf/finish_max_pf/3p",
+  "built": "2026-10-24T04:50:07Z"
+ },
+ {
+  "id": "1389736715748401152",
+  "name": "Peaches League v2",
+  "season": "2026",
+  "type": 0,
+  "added": "2026-10-23",
+  "draft_order": "none",
+  "built": "2026-10-24T04:50:01Z"
+ },
+ {
+  "id": "1312080632435732480",
+  "name": "Rawdog Fantasy League",
+  "season": "2026",
+  "type": 0,
+  "added": "2026-10-23",
+  "draft_order": "none",
+  "built": "2026-10-24T04:50:03Z"
+ },
+ {
+  "id": "1388886245215567872",
+  "name": "The O.G. League",
+  "season": "2026",
+  "type": 0,
+  "added": "2026-10-23",
+  "draft_order": "none",
+  "built": "2026-10-24T04:50:06Z"
+ },
+ {
+  "id": "1389358958463950848",
+  "name": "TDs and Beer",
+  "season": "2026",
+  "type": 0,
+  "added": "2026-10-23",
+  "draft_order": "none",
+  "built": "2026-10-24T04:50:08Z"
+ },
+ {
+  "id": "1316884651276500992",
+  "name": "Planet of the apes fantasy land",
+  "season": "2026",
+  "type": 0,
+  "added": "2026-10-23",
+  "draft_order": "none",
+  "built": "2026-10-24T04:50:07Z"
+ },
+ {
+  "id": "1353556182614183937",
+  "name": "Reality Fantasy Football League est. 2024",
+  "season": "2026",
+  "type": 0,
+  "added": "2026-10-23",
+  "draft_order": "none",
+  "built": "2026-10-24T04:50:11Z"
+ },
+ {
+  "id": "1389691067598663680",
+  "name": "Packin\u2019 Support",
+  "season": "2026",
+  "type": 0,
+  "added": "2026-10-23",
+  "draft_order": "none",
+  "built": "2026-10-24T04:50:12Z"
+ },
+ {
+  "id": "1390959970056404992",
+  "name": "Piketober Dynasty",
+  "season": "2026",
+  "type": 2,
+  "added": "2026-10-23",
+  "draft_order": "record/finish/3p",
+  "built": "2026-10-24T04:50:17Z"
+ },
+ {
+  "id": "1312140906647801856",
+  "name": "The Virility and Fertility League",
+  "season": "2026",
+  "type": 2,
+  "added": "2026-10-23",
+  "draft_order": "record/finish",
+  "built": "2026-10-24T04:50:18Z"
+ },
+ {
+  "id": "1316458746997669888",
+  "name": "The Great Dynasty League",
+  "season": "2026",
+  "type": 2,
+  "added": "2026-10-23",
+  "draft_order": "max_pf/finish/3p",
+  "built": "2026-10-24T04:50:27Z"
+ },
+ {
+  "id": "1375531070354653184",
+  "name": "Blood, Sweat, and Beers\ud83c\udf7b",
+  "season": "2026",
+  "type": 1,
+  "added": "2026-10-23",
+  "draft_order": "none",
+  "built": "2026-10-24T04:50:16Z"
+ },
+ {
+  "id": "1313120860306931712",
+  "name": "Superflex Dynasty",
+  "season": "2026",
+  "type": 2,
+  "added": "2026-10-23",
+  "draft_order": "max_pf/finish_max_pf",
+  "built": "2026-10-24T04:50:21Z"
+ },
+ {
+  "id": "1389342471632195586",
+  "name": "Dawg House Fantasy Football",
+  "season": "2026",
+  "type": 0,
+  "added": "2026-10-23",
+  "draft_order": "none",
+  "built": "2026-10-24T04:50:18Z"
+ },
+ {
+  "id": "1387992761126383616",
+  "name": "CUBONE CORG",
+  "season": "2026",
+  "type": 0,
+  "added": "2026-10-23",
+  "draft_order": "none",
+  "built": "2026-10-24T04:50:23Z"
+ },
+ {
+  "id": "1389720427625971712",
+  "name": "HACKS_FF",
+  "season": "2026",
+  "type": 0,
+  "added": "2026-10-23",
+  "draft_order": "none",
+  "built": "2026-10-24T04:50:20Z"
+ },
+ {
+  "id": "1401647752114368512",
+  "name": "Family American Football League",
+  "season": "2026",
+  "type": 0,
+  "added": "2026-10-23",
+  "draft_order": "none",
+  "built": "2026-10-24T04:50:23Z"
+ },
+ {
+  "id": "1392999666529873920",
+  "name": "Lano's Fantasy League - NSFW",
+  "season": "2026",
+  "type": 0,
+  "added": "2026-10-23",
+  "draft_order": "none",
+  "built": "2026-10-24T04:50:27Z"
+ },
+ {
+  "id": "1312272453707247616",
+  "name": "Kibiss Shop Dynasty League",
+  "season": "2026",
+  "type": 2,
+  "added": "2026-10-23",
+  "draft_order": "max_pf/finish/3p",
+  "built": "2026-10-24T04:50:31Z"
+ },
+ {
+  "id": "1389393299885813760",
+  "name": "Prestige Worldwide Fantasy League",
+  "season": "2026",
+  "type": 0,
+  "added": "2026-10-23",
+  "draft_order": "none",
+  "built": "2026-10-24T04:50:28Z"
+ },
+ {
+  "id": "1389375645020082176",
+  "name": "ONLY LAST A MINUTE",
+  "season": "2026",
+  "type": 0,
+  "added": "2026-10-23",
+  "draft_order": "none",
+  "built": "2026-10-24T04:50:30Z"
+ },
+ {
+  "id": "1389347585986162688",
+  "name": "\ud83e\udd47\ud83e\udd48\ud83e\udd49\u2620\ufe0f\u2620\ufe0f\u2620\ufe0f\u2620\ufe0f\u2620\ufe0f\u2620\ufe0f\u2620\ufe0f\u2620\ufe0f\u2620\ufe0f",
+  "season": "2026",
+  "type": 1,
+  "added": "2026-10-23",
+  "draft_order": "toilet_bowl/finish_max_pf/3p",
+  "built": "2026-10-24T04:50:34Z"
+ },
+ {
+  "id": "1394904617531219968",
+  "name": "Cordillera Ranch Fantasy Football 2026",
+  "season": "2026",
+  "type": 0,
+  "added": "2026-10-23",
+  "draft_order": "none",
+  "built": "2026-10-24T04:50:31Z"
+ },
+ {
+  "id": "1312656746954641408",
+  "name": "Dynaclart",
+  "season": "2026",
+  "type": 2,
+  "added": "2026-10-23",
+  "draft_order": "max_pf/finish_max_pf/3p",
+  "built": "2026-10-24T04:50:41Z"
+ },
+ {
+  "id": "1372687748711858176",
+  "name": "Dream League Die-Nasty 2026",
+  "season": "2026",
+  "type": 2,
+  "added": "2026-10-23",
+  "draft_order": "max_pf_all",
+  "built": "2026-10-24T04:50:44Z"
+ },
+ {
+  "id": "1395993266167504896",
+  "name": "The Fellowship",
+  "season": "2026",
+  "type": 0,
+  "added": "2026-10-23",
+  "draft_order": "none",
+  "built": "2026-10-24T04:50:34Z"
+ },
+ {
+  "id": "1312113639779471360",
+  "name": "Ethan\u2019s dumb league",
+  "season": "2026",
+  "type": 0,
+  "added": "2026-10-23",
+  "draft_order": "none",
+  "built": "2026-10-24T04:50:37Z"
+ },
+ {
+  "id": "1354968328560480256",
+  "name": "The Kibiss Shop",
+  "season": "2026",
+  "type": 0,
+  "added": "2026-10-23",
+  "draft_order": "none",
+  "built": "2026-10-24T04:50:37Z"
+ },
+ {
+  "id": "1312157443408531456",
+  "name": "LFF Dynasty",
+  "season": "2026",
+  "type": 2,
+  "added": "2026-10-23",
+  "draft_order": "record/finish_max_pf/3p",
+  "built": "2026-10-24T04:50:46Z"
+ },
+ {
+  "id": "1389359040965914624",
+  "name": "The Collusion",
+  "season": "2026",
+  "type": 0,
+  "added": "2026-10-23",
+  "draft_order": "none",
+  "built": "2026-10-24T04:50:36Z"
+ },
+ {
+  "id": "1326631705842294784",
+  "name": "The League Dynasty EST. 2025",
+  "season": "2026",
+  "type": 2,
+  "added": "2026-10-23",
+  "draft_order": "max_pf/finish_max_pf/3p",
+  "built": "2026-10-24T04:50:51Z"
+ },
+ {
+  "id": "1389734749756485632",
+  "name": "League Bitchass",
+  "season": "2026",
+  "type": 0,
+  "added": "2026-10-23",
+  "draft_order": "none",
+  "built": "2026-10-24T04:50:42Z"
+ },
+ {
+  "id": "1391458121892782080",
+  "name": "DJH Memorial League",
+  "season": "2026",
+  "type": 0,
+  "added": "2026-10-23",
+  "draft_order": "none",
+  "built": "2026-10-24T04:50:45Z"
+ },
+ {
+  "id": "1313237372078395392",
+  "name": "B1G Dynasty",
+  "season": "2026",
+  "type": 2,
+  "added": "2026-10-23",
+  "draft_order": "max_pf/finish_max_pf/3p",
+  "built": "2026-10-24T04:50:55Z"
+ },
+ {
+  "id": "1314848065584132096",
+  "name": "The Roaring Twenties",
+  "season": "2026",
+  "type": 2,
+  "added": "2026-10-23",
+  "draft_order": "max_pf/finish_max_pf/3p",
+  "built": "2026-10-24T04:50:56Z"
+ },
+ {
+  "id": "1380387319428710400",
+  "name": "PVilleFootball",
+  "season": "2026",
+  "type": 0,
+  "added": "2026-10-23",
+  "draft_order": "none",
+  "built": "2026-10-24T04:50:51Z"
+ },
+ {
+  "id": "1388220610039001088",
+  "name": "Ultimate League of Leagues",
+  "season": "2026",
+  "type": 1,
+  "added": "2026-10-23",
+  "draft_order": "consolation/finish_max_pf/3p",
+  "built": "2026-10-24T04:50:54Z"
+ },
+ {
+  "id": "1392902436854718465",
+  "name": "MVMT 2026",
+  "season": "2026",
+  "type": 0,
+  "added": "2026-10-23",
+  "draft_order": "none",
+  "built": "2026-10-24T04:50:53Z"
+ },
+ {
+  "id": "1362505484879278080",
+  "name": "Best Ball Demonz",
+  "season": "2026",
+  "type": 2,
+  "added": "2026-10-23",
+  "draft_order": "max_pf/finish_max_pf",
+  "built": "2026-10-24T04:51:07Z"
+ },
+ {
+  "id": "1312930432701960192",
+  "name": "Blitz 98",
+  "season": "2026",
+  "type": 2,
+  "added": "2026-10-23",
+  "draft_order": "max_pf_all",
+  "built": "2026-10-24T04:51:01Z"
+ },
+ {
+  "id": "1326744205967499264",
+  "name": "NFL Dynasty League",
+  "season": "2026",
+  "type": 2,
+  "added": "2026-10-23",
+  "draft_order": "record/finish_max_pf/3p",
+  "built": "2026-10-24T04:51:06Z"
+ },
+ {
+  "id": "1396001106970017792",
+  "name": "Shynasty",
+  "season": "2026",
+  "type": 2,
+  "added": "2026-10-23",
+  "draft_order": "max_pf/finish_max_pf",
+  "built": "2026-10-24T04:51:08Z"
+ },
+ {
+  "id": "1326744738920943616",
+  "name": "Raw Dawgs 2.0",
+  "season": "2026",
+  "type": 0,
+  "added": "2026-10-23",
+  "draft_order": "none",
+  "built": "2026-10-24T04:51:01Z"
+ },
+ {
+  "id": "1360009501654151168",
+  "name": "The Deep End",
+  "season": "2026",
+  "type": 2,
+  "added": "2026-10-23",
+  "draft_order": "max_pf/finish_max_pf",
+  "built": "2026-10-24T04:51:10Z"
+ },
+ {
+  "id": "1315512188680544256",
+  "name": "Fly High Dynasty #5",
+  "season": "2026",
+  "type": 2,
+  "added": "2026-10-23",
+  "draft_order": "max_pf/finish_max_pf/3p",
+  "built": "2026-10-24T04:51:16Z"
+ },
+ {
+  "id": "1374207737973473280",
+  "name": "Goodest Goys",
+  "season": "2026",
+  "type": 1,
+  "added": "2026-10-23",
+  "draft_order": "max_pf_all",
+  "built": "2026-10-24T04:51:06Z"
+ },
+ {
+  "id": "1389689669767159808",
+  "name": "La Cockaracha",
+  "season": "2026",
+  "type": 0,
+  "added": "2026-10-23",
+  "draft_order": "none",
+  "built": "2026-10-24T04:51:10Z"
+ },
+ {
+  "id": "1312530951808516096",
+  "name": "Midseason Dynasty",
+  "season": "2026",
+  "type": 2,
+  "added": "2026-10-23",
+  "draft_order": "max_pf/finish_max_pf/3p",
+  "built": "2026-10-24T04:51:15Z"
+ },
+ {
+  "id": "1389374610197204992",
+  "name": "ESPN sucks",
+  "season": "2026",
+  "type": 0,
+  "added": "2026-10-23",
+  "draft_order": "none",
+  "built": "2026-10-24T04:51:14Z"
+ },
+ {
+  "id": "1312140174095822848",
+  "name": "Champions dynasty league",
+  "season": "2026",
+  "type": 2,
+  "added": "2026-10-23",
+  "draft_order": "none",
+  "built": "2026-10-24T04:51:18Z"
+ },
+ {
+  "id": "1382415290574319616",
+  "name": "MAHOMIES PUT PENIX IN BUTKER",
+  "season": "2026",
+  "type": 1,
+  "added": "2026-10-23",
+  "draft_order": "max_pf/finish_max_pf/3p",
+  "built": "2026-10-24T04:51:19Z"
+ },
+ {
+  "id": "1391153911976435712",
+  "name": "2027 Dynasty League",
+  "season": "2026",
+  "type": 2,
+  "added": "2026-10-23",
+  "draft_order": "max_pf/finish_max_pf",
+  "built": "2026-10-24T04:51:22Z"
+ },
+ {
+  "id": "1369545089788968960",
+  "name": "My Main League",
+  "season": "2026",
+  "type": 1,
+  "added": "2026-10-23",
+  "draft_order": "record/finish",
+  "built": "2026-10-24T04:51:21Z"
+ },
+ {
+  "id": "1312021018654564352",
+  "name": "Jim Furbaughl\u2019s Bitches reigns supreme",
+  "season": "2026",
+  "type": 2,
+  "added": "2026-10-23",
+  "draft_order": "record/finish/3p",
+  "built": "2026-10-24T04:51:22Z"
+ },
+ {
+  "id": "1400183312982499328",
+  "name": "NWSL Office League",
+  "season": "2026",
+  "type": 0,
+  "added": "2026-10-23",
+  "draft_order": "none",
+  "built": "2026-10-24T04:51:23Z"
+ },
+ {
+  "id": "1392717077780901888",
+  "name": "Hardcore (but free)",
+  "season": "2026",
+  "type": 2,
+  "added": "2026-10-23",
+  "draft_order": "max_pf/finish_max_pf",
+  "built": "2026-10-24T04:51:30Z"
+ },
+ {
+  "id": "1395451544022835200",
+  "name": "Bloomberg",
+  "season": "2026",
+  "type": 0,
+  "added": "2026-10-23",
+  "draft_order": "none",
+  "built": "2026-10-24T04:51:26Z"
+ },
+ {
+  "id": "1333936439481610240",
+  "name": "Super League II",
+  "season": "2026",
+  "type": 2,
+  "added": "2026-10-23",
+  "draft_order": "max_pf/finish_max_pf/3p",
+  "built": "2026-10-24T04:51:36Z"
+ },
+ {
+  "id": "1389343276988928000",
+  "name": "Trophies, Tacos and Tenders",
+  "season": "2026",
+  "type": 0,
+  "added": "2026-10-23",
+  "draft_order": "none",
+  "built": "2026-10-24T04:51:27Z"
+ },
+ {
+  "id": "1314153445665574912",
+  "name": "DYNASTY AF",
+  "season": "2026",
+  "type": 2,
+  "added": "2026-10-23",
+  "draft_order": "max_pf/finish_pf/3p",
+  "built": "2026-10-24T04:51:36Z"
+ },
+ {
+  "id": "1349936771370070016",
+  "name": "Good Dynasty Hunting",
+  "season": "2026",
+  "type": 2,
+  "added": "2026-10-23",
+  "draft_order": "max_pf/finish/3p",
+  "built": "2026-10-24T04:51:38Z"
+ },
+ {
+  "id": "1398076538041163776",
+  "name": "Fantasias a Domicilio",
+  "season": "2026",
+  "type": 0,
+  "added": "2026-10-23",
+  "draft_order": "none",
+  "built": "2026-10-24T04:51:32Z"
+ },
+ {
+  "id": "1351176855738159104",
+  "name": "Hall of Fame",
+  "season": "2026",
+  "type": 0,
+  "added": "2026-10-23",
+  "draft_order": "none",
+  "built": "2026-10-24T04:51:33Z"
+ },
+ {
+  "id": "1389752538470809600",
+  "name": "Blood, Sweat & Beers",
+  "season": "2026",
+  "type": 0,
+  "added": "2026-10-23",
+  "draft_order": "none",
+  "built": "2026-10-24T04:51:34Z"
+ },
+ {
+  "id": "1312294510797008896",
+  "name": "The Sheep Station Cup",
+  "season": "2026",
+  "type": 2,
+  "added": "2026-10-23",
+  "draft_order": "max_pf/finish/3p",
+  "built": "2026-10-24T04:51:43Z"
+ },
+ {
+  "id": "1312253021672996864",
+  "name": "Final Dynasty VII",
+  "season": "2026",
+  "type": 2,
+  "added": "2026-10-23",
+  "draft_order": "consolation/finish_max_pf/3p",
+  "built": "2026-10-24T04:51:48Z"
+ },
+ {
+  "id": "1401660962188046336",
+  "name": "Teamski",
+  "season": "2026",
+  "type": 0,
+  "added": "2026-10-23",
+  "draft_order": "none",
+  "built": "2026-10-24T04:51:41Z"
+ },
+ {
+  "id": "1312013270349025280",
+  "name": "Gay Boys Only Dynasty",
+  "season": "2026",
+  "type": 2,
+  "added": "2026-10-23",
+  "draft_order": "max_pf/finish/3p",
+  "built": "2026-10-24T04:51:49Z"
+ },
+ {
+  "id": "1389375460483284992",
+  "name": "Low Stakes / High Shit Talk",
+  "season": "2026",
+  "type": 1,
+  "added": "2026-10-23",
+  "draft_order": "max_pf/finish_max_pf/3p",
+  "built": "2026-10-24T04:51:46Z"
+ },
+ {
+  "id": "1315318539418075136",
+  "name": "The Greatest Show on Paper",
+  "season": "2026",
+  "type": 2,
+  "added": "2026-10-23",
+  "draft_order": "record/finish",
+  "built": "2026-10-24T04:51:48Z"
+ },
+ {
+  "id": "1386919932586921985",
+  "name": "16tm 1QB PPR TEP",
+  "season": "2026",
+  "type": 0,
+  "added": "2026-10-23",
+  "draft_order": "none",
+  "built": "2026-10-24T04:51:47Z"
+ },
+ {
+  "id": "1316174869955633152",
+  "name": "Dawgs Dynasty",
+  "season": "2026",
+  "type": 2,
+  "added": "2026-10-23",
+  "draft_order": "max_pf/finish_max_pf/3p",
+  "built": "2026-10-24T04:51:53Z"
+ },
+ {
+  "id": "1339277659120603136",
+  "name": "The Spanish Inquisition",
+  "season": "2026",
+  "type": 2,
+  "added": "2026-10-23",
+  "draft_order": "record/finish",
+  "built": "2026-10-24T04:51:54Z"
+ },
+ {
+  "id": "1312144814908645376",
+  "name": "Green Fees & Broken Tees",
+  "season": "2026",
+  "type": 2,
+  "added": "2026-10-23",
+  "draft_order": "record/finish_max_pf/3p",
+  "built": "2026-10-24T04:51:59Z"
+ },
+ {
+  "id": "1331296138854150144",
+  "name": "Empire of Domain",
+  "season": "2026",
+  "type": 2,
+  "added": "2026-10-23",
+  "draft_order": "max_pf_all",
+  "built": "2026-10-24T04:52:05Z"
+ },
+ {
+  "id": "1312204292001648640",
+  "name": "Hometown Dynasty",
+  "season": "2026",
+  "type": 2,
+  "added": "2026-10-23",
+  "draft_order": "max_pf/finish_max_pf",
+  "built": "2026-10-24T04:52:06Z"
+ },
+ {
+  "id": "1337863674974437376",
+  "name": "Dynasty&",
+  "season": "2026",
+  "type": 2,
+  "added": "2026-10-23",
+  "draft_order": "max_pf_all",
+  "built": "2026-10-24T04:52:04Z"
+ },
+ {
+  "id": "1380234675749941248",
+  "name": "A Longhorns Fantasy",
+  "season": "2026",
+  "type": 1,
+  "added": "2026-10-23",
+  "draft_order": "max_pf/finish_max_pf/3p",
+  "built": "2026-10-24T04:52:01Z"
+ },
+ {
+  "id": "1389387315574480896",
+  "name": "Chuck\u2019s Charity",
+  "season": "2026",
+  "type": 0,
+  "added": "2026-10-23",
+  "draft_order": "none",
+  "built": "2026-10-24T04:51:59Z"
+ },
+ {
+  "id": "1389751858196664320",
+  "name": "So You're Saying There's A Chance",
+  "season": "2026",
+  "type": 0,
+  "added": "2026-10-23",
+  "draft_order": "none",
+  "built": "2026-10-24T04:52:02Z"
+ },
+ {
+  "id": "1312905686694252544",
+  "name": "Draygan",
+  "season": "2026",
+  "type": 2,
+  "added": "2026-10-23",
+  "draft_order": "max_pf/finish_max_pf/3p",
+  "built": "2026-10-24T04:52:14Z"
+ },
+ {
+  "id": "1389376213557997568",
+  "name": "Phootball Phreaks",
+  "season": "2026",
+  "type": 2,
+  "added": "2026-10-23",
+  "draft_order": "pf/finish/3p",
+  "built": "2026-10-24T04:52:12Z"
+ },
+ {
+  "id": "1336807958046076928",
+  "name": "First and Eleven",
+  "season": "2026",
+  "type": 0,
+  "added": "2026-10-23",
+  "draft_order": "none",
+  "built": "2026-10-24T04:52:09Z"
+ },
+ {
+  "id": "1312966477090938880",
+  "name": "The Gerbino Derbino",
+  "season": "2026",
+  "type": 2,
+  "added": "2026-10-23",
+  "draft_order": "max_pf/finish_max_pf/3p",
+  "built": "2026-10-24T04:52:20Z"
+ },
+ {
+  "id": "1336810154129133568",
+  "name": "HRvsNOVA Dynasty",
+  "season": "2026",
+  "type": 2,
+  "added": "2026-10-23",
+  "draft_order": "max_pf/finish/3p",
+  "built": "2026-10-24T04:52:18Z"
+ },
+ {
+  "id": "1312864728707510272",
+  "name": "The Armchair GMs",
+  "season": "2026",
+  "type": 2,
+  "added": "2026-10-23",
+  "draft_order": "max_pf/finish_max_pf/3p",
+  "built": "2026-10-24T04:52:22Z"
+ },
+ {
+  "id": "1355637036781957120",
+  "name": "League of mediocre gentlemen",
+  "season": "2026",
+  "type": 0,
+  "added": "2026-10-23",
+  "draft_order": "none",
+  "built": "2026-10-24T04:52:16Z"
+ },
+ {
+  "id": "1313390676297154560",
+  "name": "No Shit league",
+  "season": "2026",
+  "type": 2,
+  "added": "2026-10-23",
+  "draft_order": "max_pf/finish/3p",
+  "built": "2026-10-24T04:52:27Z"
+ },
+ {
+  "id": "1312006080766701568",
+  "name": "Shadynasty's",
+  "season": "2026",
+  "type": 2,
+  "added": "2026-10-23",
+  "draft_order": "none",
+  "built": "2026-10-24T04:52:20Z"
+ },
+ {
+  "id": "1312094401996021760",
+  "name": "Dynasty Kings",
+  "season": "2026",
+  "type": 2,
+  "added": "2026-10-23",
+  "draft_order": "max_pf/finish_max_pf/3p",
+  "built": "2026-10-24T04:52:29Z"
+ },
+ {
+  "id": "1312092268768796672",
+  "name": "The Conglomerate",
+  "season": "2026",
+  "type": 2,
+  "added": "2026-10-23",
+  "draft_order": "max_pf/finish_max_pf/3p",
+  "built": "2026-10-24T04:52:31Z"
+ },
+ {
+  "id": "1389387398428774401",
+  "name": "Auction Draft or Bust",
+  "season": "2026",
+  "type": 0,
+  "added": "2026-10-23",
+  "draft_order": "none",
+  "built": "2026-10-24T04:52:24Z"
+ },
+ {
+  "id": "1318979959573745664",
+  "name": "The League",
+  "season": "2026",
+  "type": 2,
+  "added": "2026-10-23",
+  "draft_order": "max_pf/finish",
+  "built": "2026-10-24T04:52:35Z"
+ },
+ {
+  "id": "1385114023019696128",
+  "name": "Might move to Vegas",
+  "season": "2026",
+  "type": 0,
+  "added": "2026-10-23",
+  "draft_order": "none",
+  "built": "2026-10-24T04:52:30Z"
+ },
+ {
+  "id": "1335388845650214912",
+  "name": "Bonnie Blue Set Hut",
+  "season": "2026",
+  "type": 2,
+  "added": "2026-10-23",
+  "draft_order": "max_pf/finish_max_pf/3p",
+  "built": "2026-10-24T04:52:39Z"
+ },
+ {
+  "id": "1333944871353868288",
+  "name": "More Like Hoagie Paradise",
+  "season": "2026",
+  "type": 2,
+  "added": "2026-10-23",
+  "draft_order": "max_pf/finish",
+  "built": "2026-10-24T04:52:42Z"
+ },
+ {
+  "id": "1389392560530669568",
+  "name": "La Fonda\u2019s Fantasy",
+  "season": "2026",
+  "type": 0,
+  "added": "2026-10-23",
+  "draft_order": "none",
+  "built": "2026-10-24T04:52:32Z"
+ },
+ {
+  "id": "1346722050424705024",
+  "name": "Domain Commish Council",
+  "season": "2026",
+  "type": 2,
+  "added": "2026-10-23",
+  "draft_order": "max_pf/finish_max_pf/3p",
+  "built": "2026-10-24T04:52:46Z"
+ },
+ {
+  "id": "1395191759293657088",
+  "name": "Les copains malins",
+  "season": "2026",
+  "type": 0,
+  "added": "2026-10-23",
+  "draft_order": "none",
+  "built": "2026-10-24T04:52:36Z"
+ },
+ {
+  "id": "1335692129317421056",
+  "name": "Domain Jelani Woods\u2019 Thighs League",
+  "season": "2026",
+  "type": 2,
+  "added": "2026-10-23",
+  "draft_order": "max_pf/finish_max_pf/3p",
+  "built": "2026-10-24T04:52:48Z"
+ },
+ {
+  "id": "1312435514036469760",
+  "name": "Doc's Dynasty League",
+  "season": "2026",
+  "type": 2,
+  "added": "2026-10-23",
+  "draft_order": "max_pf/finish_max_pf/3p",
+  "built": "2026-10-24T04:52:50Z"
+ },
+ {
+  "id": "1334241834624385024",
+  "name": "Fantasy Farking Football (Dynasty 12 TM SF)",
+  "season": "2026",
+  "type": 2,
+  "added": "2026-10-23",
+  "draft_order": "max_pf/finish_max_pf/3p",
+  "built": "2026-10-24T04:52:51Z"
+ },
+ {
+  "id": "1389735734155444224",
+  "name": "wacom city",
+  "season": "2026",
+  "type": 0,
+  "added": "2026-10-23",
+  "draft_order": "none",
+  "built": "2026-10-24T04:52:44Z"
+ },
+ {
+  "id": "1389693642599333888",
+  "name": "TUH Work League CP West",
+  "season": "2026",
+  "type": 0,
+  "added": "2026-10-23",
+  "draft_order": "none",
+  "built": "2026-10-24T04:52:46Z"
+ },
+ {
+  "id": "1389377961555144704",
+  "name": "TUH Work League CP East",
+  "season": "2026",
+  "type": 0,
+  "added": "2026-10-23",
+  "draft_order": "none",
+  "built": "2026-10-24T04:52:49Z"
+ },
+ {
+  "id": "1312150911430197248",
+  "name": "Fooseball Dynasty",
+  "season": "2026",
+  "type": 2,
+  "added": "2026-10-23",
+  "draft_order": "record/finish_max_pf",
+  "built": "2026-10-24T04:52:58Z"
+ },
+ {
+  "id": "1337843108741664768",
+  "name": "Deke Fantasy",
+  "season": "2026",
+  "type": 2,
+  "added": "2026-10-24",
+  "draft_order": "record/finish/3p",
+  "built": "2026-10-24T04:52:58Z"
+ },
+ {
+  "id": "1327036579973197824",
+  "name": "League #69",
+  "season": "2026",
+  "type": 2,
+  "added": "2026-10-24",
+  "draft_order": "max_pf/finish_max_pf/3p",
+  "built": "2026-10-24T04:53:03Z"
+ },
+ {
+  "id": "1337807988957675520",
+  "name": "Return of the jEDi",
+  "season": "2026",
+  "type": 0,
+  "added": "2026-10-24",
+  "draft_order": "none",
+  "built": "2026-10-24T04:52:56Z"
+ },
+ {
+  "id": "1338156716524589056",
+  "name": "I Hate Todd Bowles",
+  "season": "2026",
+  "type": 2,
+  "added": "2026-10-24",
+  "draft_order": "max_pf/finish_max_pf/3p",
+  "built": "2026-10-24T04:53:05Z"
+ },
+ {
+  "id": "1338281993347043328",
+  "name": "Designated-Drinkers",
+  "season": "2026",
+  "type": 2,
+  "added": "2026-10-24",
+  "draft_order": "record/finish_max_pf/3p",
+  "built": "2026-10-24T04:53:03Z"
+ },
+ {
+  "id": "1361202571569553408",
+  "name": "Rome Odynasty",
+  "season": "2026",
+  "type": 2,
+  "added": "2026-10-24",
+  "draft_order": "max_pf/finish_max_pf",
+  "built": "2026-10-24T04:53:10Z"
+ },
+ {
+  "id": "1389372743702548480",
+  "name": "PaperStreet FFL",
+  "season": "2026",
+  "type": 0,
+  "added": "2026-10-24",
+  "draft_order": "none",
+  "built": "2026-10-24T04:53:01Z"
+ },
+ {
+  "id": "1395169041512947712",
+  "name": "The Broken Crown",
+  "season": "2026",
+  "type": 2,
+  "added": "2026-10-24",
+  "draft_order": "max_pf/finish_max_pf",
+  "built": "2026-10-24T04:53:13Z"
+ },
+ {
+  "id": "1401232201890197504",
+  "name": "2026 TU FF League",
+  "season": "2026",
+  "type": 0,
+  "added": "2026-10-24",
+  "draft_order": "none",
+  "built": "2026-10-24T04:53:05Z"
+ },
+ {
+  "id": "1395177522190114816",
+  "name": "Snag 67",
+  "season": "2026",
+  "type": 0,
+  "added": "2026-10-24",
+  "draft_order": "none",
+  "built": "2026-10-24T04:53:08Z"
+ },
+ {
+  "id": "1395939177844981760",
+  "name": "Crown Chasers",
+  "season": "2026",
+  "type": 0,
+  "added": "2026-10-24",
+  "draft_order": "none",
+  "built": "2026-10-24T04:53:12Z"
+ },
+ {
+  "id": "1389061578988482560",
+  "name": "ORC League",
+  "season": "2026",
+  "type": 0,
+  "added": "2026-10-24",
+  "draft_order": "none",
+  "built": "2026-10-24T04:53:13Z"
+ },
+ {
+  "id": "1319925421013241856",
+  "name": "Multiverse of Football Madness",
+  "season": "2026",
+  "type": 2,
+  "added": "2026-10-24",
+  "draft_order": "max_pf/finish_max_pf/3p",
+  "built": "2026-10-24T04:53:22Z"
+ },
+ {
+  "id": "1377437469695315968",
+  "name": "Receding Goal Lines",
+  "season": "2026",
+  "type": 2,
+  "added": "2026-10-24",
+  "draft_order": "max_pf/finish_max_pf",
+  "built": "2026-10-24T04:53:23Z"
+ },
+ {
+  "id": "1399606774104875008",
+  "name": "La Greenvest\ud83c\udf32 Liga",
+  "season": "2026",
+  "type": 0,
+  "added": "2026-10-24",
+  "draft_order": "none",
+  "built": "2026-10-24T04:53:17Z"
+ },
+ {
+  "id": "1387532328082890752",
+  "name": "The League 5.0",
+  "season": "2026",
+  "type": 0,
+  "added": "2026-10-24",
+  "draft_order": "none",
+  "built": "2026-10-24T04:53:16Z"
+ }
+]
