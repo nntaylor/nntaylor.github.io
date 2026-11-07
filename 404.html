@@ -1,0 +1,9 @@
+<!doctype html><meta charset="utf-8"><title>Not found · Contendathon</title><meta name="viewport" content="width=device-width, initial-scale=1"><style>body{margin:0;background:#0b1020;color:#b7c5d4;font:15px system-ui,sans-serif;display:grid;place-items:center;height:100vh;text-align:center}a{color:#00e1e0}</style><p>That page isn't here.<br><a href="/">Go to Contendathon</a></p><script>
+(() => { try { const L = "hub", F = ["open:404", /^\/\d{6,25}(\/|$)/.test(location.pathname) ? "404:league" : "404:other"];
+  const W = "https://league-scheduler.nntay92.workers.dev", app = navigator.standalone || matchMedia("(display-mode: standalone)").matches;
+  let u = "", off = /^(localhost|127\.|file)/.test(location.hostname || "file");
+  try { off = off || !!localStorage.getItem("contendathon-nocount"); u = (localStorage.getItem("contendathon-who") || "").slice(0, 40); } catch (e) {}
+  let src = "direct"; try { const r = document.referrer ? new URL(document.referrer) : null; src = app ? "app" : !r ? "direct" : r.host !== location.host ? "other" : "site"; } catch (e) { src = "other"; }
+  const id = (Math.random().toString(36).slice(2, 12) + Date.now().toString(36)).slice(0, 24);
+  if (!off) try { navigator.sendBeacon(W + "/v", new Blob([JSON.stringify({ id, l: L, a: app ? 1 : 0, p: matchMedia("(max-width: 640px)").matches ? 1 : 0, w: innerWidth, s: src, u, f: F })], { type: "text/plain" })); } catch (e) {} } catch (e) {} })();
+</script>
