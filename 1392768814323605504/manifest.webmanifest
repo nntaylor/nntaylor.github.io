@@ -1,0 +1,37 @@
+{
+ "id": "/1392768814323605504/",
+ "name": "Coast to Coast Fantasy \ud83d\ude0e\ud83c\udf7a\u26bd\ufe0f Contendathon",
+ "short_name": "Contendathon",
+ "start_url": "./",
+ "scope": "/",
+ "display": "standalone",
+ "orientation": "portrait",
+ "background_color": "#05091d",
+ "theme_color": "#05091d",
+ "icons": [
+  {
+   "src": "/icons/icon-192.png",
+   "sizes": "192x192",
+   "type": "image/png",
+   "purpose": "any"
+  },
+  {
+   "src": "/icons/icon-512.png",
+   "sizes": "512x512",
+   "type": "image/png",
+   "purpose": "any"
+  },
+  {
+   "src": "/icons/icon-maskable-512.png",
+   "sizes": "512x512",
+   "type": "image/png",
+   "purpose": "maskable"
+  },
+  {
+   "src": "/icons/apple-touch-icon.png",
+   "sizes": "180x180",
+   "type": "image/png",
+   "purpose": "any"
+  }
+ ]
+}
