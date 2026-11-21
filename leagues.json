@@ -7834,5 +7834,14 @@
   "added": "2026-11-21",
   "draft_order": "max_pf_all",
   "built": "2026-11-21T01:44:02Z"
+ },
+ {
+  "id": "1360860371191087104",
+  "name": "Dynasty Addicts Anonymous",
+  "season": "2026",
+  "type": 2,
+  "added": "2026-11-21",
+  "draft_order": "max_pf/finish_max_pf",
+  "built": "2026-11-21T01:53:01Z"
  }
 ]
