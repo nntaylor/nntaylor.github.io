@@ -1,0 +1,63 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="contendathon-stub" content="paused">
+<meta name="theme-color" content="#05091d">
+<meta name="robots" content="noindex">
+<title>Captain Andrew Luck Memorial League Contendathon</title>
+<link rel="manifest" href="manifest.webmanifest">
+<link rel="apple-touch-icon" href="/icons/apple-touch-icon.png">
+<script type="application/json" id="stub-data">{"updated": {"built": "2026-10-25T12:20:07Z"}, "league": "1361058986937323520"}</script>
+<style>
+:root { color-scheme: dark; }
+html, body { margin: 0; height: 100%; background: #05091d; color: #e6e9f2; font: 15px/1.5 Inter, system-ui, -apple-system, "Segoe UI", sans-serif; }
+main { min-height: 100%; display: grid; place-items: center; padding: 24px 16px; box-sizing: border-box; }
+.card { max-width: 420px; width: 100%; background: #10183a; border: 1px solid #222c52; border-radius: 18px; padding: 28px 24px; text-align: center; }
+.rings { position: relative; width: 64px; height: 64px; margin: 0 auto 18px; }
+.rings i { position: absolute; inset: 0; border: 3px solid transparent; border-radius: 50%; border-top-color: #00e1e0; animation: spin 1.1s linear infinite; }
+.rings i:nth-child(2) { inset: 9px; border-top-color: #8c64ff; animation-duration: .85s; animation-direction: reverse; }
+.rings i:nth-child(3) { inset: 18px; border-top-color: #ffab0e; animation-duration: .65s; }
+@keyframes spin { to { transform: rotate(360deg); } }
+h1 { font: 700 22px/1.25 Poppins, Inter, system-ui, sans-serif; margin: 0 0 4px; }
+.lg { color: #00e1e0; font-weight: 600; margin: 0 0 14px; overflow-wrap: anywhere; }
+p { color: #aab2cc; margin: 0 0 10px; }
+#msg { color: #e6e9f2; font-weight: 600; margin-top: 14px; }
+a { color: #00e1e0; }
+</style>
+</head>
+<body>
+<main><div class="card">
+  <div class="rings" aria-hidden="true"><i></i><i></i><i></i></div>
+  <h1>This league was paused</h1>
+  <p class="lg">Captain Andrew Luck Memorial League</p>
+  <p>Nobody opened it for 2 days, so it stopped updating. It's updating now, about 1–2 minutes; this page reloads itself.</p>
+  <p id="msg" role="status">Waking it up…</p>
+  <p><a href="/">contendathon.com</a></p>
+</div></main>
+<script>
+(() => {
+  const WORKER = "https://league-scheduler.nntay92.workers.dev";
+  const D = JSON.parse(document.getElementById("stub-data").textContent), built = D.updated.built, msg = document.getElementById("msg");
+  try { const L = "hub:" + D.league, F = ["open:paused"];
+  const W = "https://league-scheduler.nntay92.workers.dev", app = navigator.standalone || matchMedia("(display-mode: standalone)").matches;
+  let u = "", off = /^(localhost|127\.|file)/.test(location.hostname || "file");
+  try { off = off || !!localStorage.getItem("contendathon-nocount"); u = (localStorage.getItem("contendathon-who") || "").slice(0, 40); } catch (e) {}
+  let src = "direct"; try { const r = document.referrer ? new URL(document.referrer) : null; src = app ? "app" : !r ? "direct" : r.host !== location.host ? "other" : "site"; } catch (e) { src = "other"; }
+  const id = (Math.random().toString(36).slice(2, 12) + Date.now().toString(36)).slice(0, 24);
+  if (!off) try { navigator.sendBeacon(W + "/v", new Blob([JSON.stringify({ id, l: L, a: app ? 1 : 0, p: matchMedia("(max-width: 640px)").matches ? 1 : 0, w: innerWidth, s: src, u, f: F })], { type: "text/plain" })); } catch (e) {} } catch (e) {}
+  const newer = () => fetch("built.txt?t=" + Date.now(), { cache: "no-store" }).then(r => r.ok ? r.text() : "").then(t => t.trim() && t.trim() !== built).catch(() => false);
+  const stop = Date.now() + 12 * 60e3;
+  const poll = async () => {
+    if (await newer()) { msg.textContent = "Updated. Loading it…"; location.replace(location.pathname + "?v=" + Date.now()); return; }
+    if (Date.now() < stop) setTimeout(poll, 15000);
+    else msg.textContent = "Still updating. Check back in a few minutes.";
+  };
+  fetch(WORKER + "/seen", { method: "POST", headers: { "content-type": "application/json" }, body: JSON.stringify({ league: "hub:" + D.league, built }) })
+    .then(r => r.json()).catch(() => ({}))
+    .then(r => { msg.textContent = r && r.paused ? "Updating it now…" : "Checking for the update…"; setTimeout(poll, r && r.paused ? 45000 : 5000); });
+})();
+</script>
+</body>
+</html>
