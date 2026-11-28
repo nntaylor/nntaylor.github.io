@@ -1,0 +1,37 @@
+{
+ "id": "/1344558686550392832/",
+ "name": "\ud83d\udde1\ufe0f\u26f0\ufe0fOne League to Rule Them All\ud83c\udfd4\ufe0f\ud83c\udff9 Contendathon",
+ "short_name": "Contendathon",
+ "start_url": "./",
+ "scope": "/",
+ "display": "standalone",
+ "orientation": "portrait",
+ "background_color": "#05091d",
+ "theme_color": "#05091d",
+ "icons": [
+  {
+   "src": "/icons/icon-192.png",
+   "sizes": "192x192",
+   "type": "image/png",
+   "purpose": "any"
+  },
+  {
+   "src": "/icons/icon-512.png",
+   "sizes": "512x512",
+   "type": "image/png",
+   "purpose": "any"
+  },
+  {
+   "src": "/icons/icon-maskable-512.png",
+   "sizes": "512x512",
+   "type": "image/png",
+   "purpose": "maskable"
+  },
+  {
+   "src": "/icons/apple-touch-icon.png",
+   "sizes": "180x180",
+   "type": "image/png",
+   "purpose": "any"
+  }
+ ]
+}
