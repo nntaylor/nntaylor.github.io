@@ -1,11 +1,11 @@
 {
- "at": "2026-11-28T03:50:49Z",
+ "at": "2026-11-28T04:00:15Z",
  "leagues_built": 1,
- "last_league_built": "2026-11-28T03:50:34Z",
+ "last_league_built": "2026-11-28T04:00:02Z",
  "sources": [
   {
    "label": "Sleeper league: rosters, lineups, scores",
-   "at": "2026-11-28T03:50:16Z",
+   "at": "2026-11-28T03:59:44Z",
    "verb": "fetched"
   },
   {
@@ -20,7 +20,7 @@
   },
   {
    "label": "NFL game status (ESPN)",
-   "at": "2026-11-28T03:50:16Z",
+   "at": "2026-11-28T03:59:44Z",
    "verb": "fetched"
   },
   {
@@ -41,9 +41,9 @@
  ],
  "warnings": [],
  "storage": {
-  "site_bytes": 162323824,
+  "site_bytes": 163744749,
   "league_pages": 888,
-  "league_bytes": 160171682,
+  "league_bytes": 161592607,
   "assets_bytes": 590946,
   "limit_bytes": 1000000000
  }
